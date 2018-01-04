@@ -1,0 +1,17 @@
+/**
+ * Architect theme overrides.
+ *
+ * https://github.com/pages-themes/architect/blob/master/_sass/jekyll-theme-architect.scss
+ */
+
+body {
+  font-size: 1em;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+aside#sidebar {
+  font-size: 14px;
+}
