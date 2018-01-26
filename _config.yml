@@ -28,6 +28,8 @@ markdown: kramdown
 theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
 permalink: /posts/:title/
 
 # Exclude from processing.
