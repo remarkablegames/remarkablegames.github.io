@@ -4,7 +4,7 @@ title: Phaser Template
 date: 2018-01-20 19:11:17 -0500
 excerpt: >-
   <p><a href="https://github.com/remarkablegames/phaser-template" target="_blank">Phaser Template</a> is a boilerplate for creating Phaser games with ES6 syntax support.</p>
-  <iframe src="https://remarkablegames.github.io/phaser-template/" frameBorder="0" width="100%" height="300px"></iframe>
+  <iframe src="https://remarkablegames.org/phaser-template/" frameBorder="0" width="100%" height="300px"></iframe>
   <p>Because it's open-source, it's <em>free to use and modify</em>. Feedback and contributions are always welcome!</p>
   <p>What games are you going to build using <a href="https://github.com/remarkablegames/phaser-template" target="_blank">Phaser Template</a>?</p>
 categories: phaser-template phaser template es6
