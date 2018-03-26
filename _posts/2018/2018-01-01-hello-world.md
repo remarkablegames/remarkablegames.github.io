@@ -3,16 +3,34 @@ layout: post
 title: Hello World
 date: 2018-01-01 23:42:02 -0500
 excerpt: >-
-  Welcome to <strong>remarkablegames</strong>! This is <a href="http://remarkablemark.org" target="_blank">Mark</a>'s first post on this site.
-categories: update
+  Welcome to the site. <a href="https://remarkablemark.org" target="_blank">Mark</a>'s first post here.
+categories: blog update
 ---
 
-Hello and welcome to **remarkablegames**!
+## Introduction
 
-You might be wondering, "_Why create this site?_" I did it to scratch a personal itch. As a programmer who's into building products that are fun and delightful, I realize that games fit this bill. Funny enough, games is what got me into programming in the first place.
+Welcome to **remarkablegames**!
 
-Also, my love for games intersects with my passion for education. If you think about it, games are one of the best mediums for learning (given that they're good). Games have rules, mechanics, and information conveyed within its world. If a game does its job correctly, it will teach the players mental models which can be used to identify problems and solve them. And the best thing of all? It's done under the pretense of fun so it doesn't actually feel like work.
+So you may be wondering who am I and why did I create this site? I'm [Mark](https://remarkablemark.org) and I'm a software engineer with a focus on the web. My passion includes education and building products that are fun and delightful to use. I have three personal reasons for creating this site:
 
-Of course, not all games follow the same process or formula. Some games have goals (complete the objective) while others do not (explore open world). But they all provide a means for the player to interact and _seemingly_ influence the environment. What differentiates a book from a game is that the former is a passive act of imagination whereas the latter is an active act of creating a narrative. Ultimately, it's the act of self-expression that makes us feel alive and in control. Games are a metaphor for the truth we seek in real-life.
+1. Passion
+2. Challenge
+3. Nostalgia
 
-So my plan is to use this site as a place to document my journey, lessons, thoughts, and ideas on game development. And I hope you will join me too. =)
+## Passion
+
+Surprisingly, my love for games intersects with my interest in education. If you think about it, games are one of the best mediums for learning. How can this be? Well, games contain rules, mechanics, and lore. If a game is designed correctly, it provides players with mental models that help identify and solve problems within the game. And this happens when the user is having fun.
+
+Now, not all games follow the same formula. Some games have goals while others do not. (Defeat enemy base versus open-world exploration.) But they all provide a means for the player to interact with the environment. The difference between a book and a game is reading relies on our imagination while playing compels us to create a narrative. Ultimately, it's the act of self-expression that makes us feel like we're doing something. Games are a metaphor for life and the human condition.
+
+## Challenge
+
+This leads me to the challenge. Making a game is easy but making a great game is hard.
+
+## Nostalgia
+
+Did you know that I started programming by making games?
+
+## Conclusion
+
+So my plan is to use this site as a place to document my experiences, learnings, and thoughts on game development. I hope you will join me on this journey. =)
