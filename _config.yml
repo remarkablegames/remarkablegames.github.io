@@ -31,6 +31,9 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 permalink: /posts/:title/
+timezone: America/New_York
+encoding: utf-8
+safe: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
