@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Scaling a Phaser game
-date: 2019-02-12 19:28:43 -0500
+date: 2019-02-12 21:28:43
 excerpt: To scale or resize a Phaser game canvas, use the built-in Scale Manager.
 categories: phaser scale resize game web javascript
 ---
