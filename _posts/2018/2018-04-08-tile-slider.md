@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tile Slider
-date: 2018-04-08 18:07:22 -0500
+date: 2018-04-08 18:07:22
 excerpt: >-
   <p><a href="https://remarkablegames.org/tile-slider/" target="_blank">Tile Slider</a> has been released!</p>
   <iframe src="https://remarkablegames.org/tile-slider/" frameBorder="0" width="100%" height="325px"></iframe>

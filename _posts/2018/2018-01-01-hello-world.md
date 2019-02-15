@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello World
-date: 2018-01-01 23:42:02 -0500
+date: 2018-01-01 23:42:02
 excerpt: >-
   Welcome to the site. <a href="https://remarkablemark.org" target="_blank">Mark</a>'s first post here.
 categories: blog update

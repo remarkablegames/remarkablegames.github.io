@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Phaser Template
-date: 2018-01-20 19:11:17 -0500
+date: 2018-01-20 19:11:17
 excerpt: >-
   <p><a href="https://github.com/remarkablegames/phaser-template" target="_blank">Phaser Template</a> is a boilerplate for creating Phaser games. See <a href="https://remarkablegames.org/phaser-template/" target="_blank">demo</a> below.</p>
   <iframe src="https://remarkablegames.org/phaser-template/" frameBorder="0" width="100%" height="520px"></iframe>
@@ -17,6 +17,7 @@ categories: phaser-template phaser template es6
 Why did I create [Phaser Template](https://github.com/remarkablegames/phaser-template)?
 
 It was to scratch a personal itch. As a game developer, I value the following:
+
 - the **ease** of building and releasing a game,
 - the **maintainability** and **readability** of the code,
 - the ability to **learn** something new while having **fun**.
