@@ -4,13 +4,13 @@
 
 ## Requirements
 
-You need [Ruby](https://www.ruby-lang.org/en/downloads/) 2.1.0 or higher:
+[Ruby](https://www.ruby-lang.org/en/downloads/) 2+:
 
 ```sh
 $ ruby --version
 ```
 
-And [Bundler](http://bundler.io):
+[Bundler](http://bundler.io/):
 
 ```sh
 # gem install bundler
@@ -34,7 +34,7 @@ $ bundle install
 
 ## Update
 
-You should update your gem dependencies from time-to-time:
+To update the gem dependencies:
 
 ```sh
 # git checkout master
@@ -44,13 +44,13 @@ $ bundle update
 
 ## Run
 
-### Development server:
+### Development server
 
 ```sh
 $ bundle exec jekyll serve --livereload # --incremental --limit_posts 1
 ```
 
-The server will be running at `127.0.0.1:4000`:
+The server will be running at http://127.0.0.1:4000/:
 
 ```sh
 $ open http://127.0.0.1:4000
@@ -58,13 +58,13 @@ $ open http://127.0.0.1:4000
 
 Press `CTRL-C` to stop the server.
 
-### Production build:
+### Production build
 
 ```sh
 $ bundle exec jekyll build
 ```
 
-Your site will be generated at `./_site/`.
+The site will be generated at `./_site/`.
 
 ## Testing
 
