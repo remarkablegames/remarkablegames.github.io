@@ -1,5 +1,7 @@
 # [remarkablegames.github.io](https://b.remarkabl.org/games)
 
+[![Build Status](https://travis-ci.org/remarkablegames/remarkablegames.github.io.svg?branch=master)](https://travis-ci.org/remarkablegames/remarkablegames.github.io)
+
 [Site](https://b.remarkabl.org/games) of [@remarkablegames](https://github.com/remarkablegames). Built with [Jekyll](https://jekyllrb.com) and hosted on [GitHub Pages](https://pages.github.com).
 
 ## Prerequisites
