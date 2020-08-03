@@ -41,9 +41,11 @@ safe: true
 exclude:
   - Gemfile
   - Gemfile.lock
-  - node_modules
   - vendor/bundle/
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  # Custom
+  - CNAME
   - README.md
+  - node_modules/
