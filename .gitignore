@@ -1,4 +1,13 @@
-_site
-.sass-cache
+# jekyll
+.jekyll-cache/
 .jekyll-metadata
+.sass-cache/
+_site/
+
+# npm
+node_modules/
+
+# misc
+*.log
 *.swp
+.DS_Store
