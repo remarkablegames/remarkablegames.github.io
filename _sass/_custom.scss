@@ -23,3 +23,12 @@ aside#sidebar {
 .highlight {
   background-color: #fff;
 }
+
+// center image
+p {
+  & > img,
+  & > a > img {
+    display: block;
+    margin: 0 auto;
+  }
+}
