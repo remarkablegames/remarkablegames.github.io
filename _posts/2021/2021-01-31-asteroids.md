@@ -2,21 +2,21 @@
 layout: post
 title: Asteroids
 date: 2021-01-31 19:54:39
-updated: 2021-02-07 20:44:23
+updated: 2021-02-07 20:49:00
 excerpt: Asteroids clone from p5.play examples.
-categories: asteroids p5 web
-image: /assets/images/2021/2021-01-31-asteroids.png
+categories: asteroids p5.play p5.js javascript web
+image: https://remarkablegames.org/asteroids/screenshot.png
 ---
 
 ## Game
 
-[Asteroids](https://remarkablegames.org/asteroids/) clone from [p5.play examples](https://molleindustria.github.io/p5.play/examples/index.html?fileName=asteroids.js). See [Repl.it](https://repl.it/talk/share/Asteroids/118514) and [repository](https://github.com/remarkablegames/asteroids).
+[Asteroids](https://remarkablegames.org/asteroids/) clone from [p5.play examples](https://b.remarkabl.org/2YS6LZz). See [Repl.it](https://repl.it/talk/share/Asteroids/118514) and [repository](https://github.com/remarkablegames/asteroids).
 
 <iframe src="https://remarkablegames.org/asteroids/" frameBorder="0" width="100%" height="600px"></iframe>
 
 ## Livestream
 
-I recreated the asteroids game from p5.play examples in my [2021-02-06 livestream](https://youtu.be/q-p5lZsv3LQ?list=PLVgOtoUBG2mdLpj6qT5DXfg5_pGPTDrJZ):
+I recreated the asteroids game from [p5.play](https://b.remarkabl.org/p5play) examples in my [2021-02-06 livestream](https://youtu.be/q-p5lZsv3LQ?list=PLVgOtoUBG2mdLpj6qT5DXfg5_pGPTDrJZ):
 
 <iframe width="100%" height="720" src="https://www.youtube.com/embed/q-p5lZsv3LQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -318,4 +318,4 @@ ship.debug = true;
 
 This goes over how to make the asteroids game from p5.play. You can make further improvements like adding a title and game over screen and improving the physics and mechanics.
 
-Check out the [Repl.it](https://repl.it/@remarkablemark/p5play-asteroids) from the livestream for the full code.
+Check out the [Repl.it](https://b.remarkabl.org/36ONQU6) from the livestream for the full code.
