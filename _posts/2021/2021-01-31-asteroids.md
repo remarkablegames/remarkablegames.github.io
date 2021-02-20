@@ -2,7 +2,7 @@
 layout: post
 title: Asteroids
 date: 2021-01-31 19:54:39
-updated: 2021-02-20 12:20:46
+updated: 2021-02-20 12:24:46
 excerpt: Asteroids clone from p5.play examples.
 categories: asteroids p5.play p5.js javascript web
 image: https://remarkablegames.org/asteroids/screenshot.png
@@ -125,7 +125,7 @@ function draw() {
 }
 ```
 
-Fire a bullet when [`keyWentDown()`] for the `x` key is triggered:
+Fire a bullet when [`keyWentDown()`](https://molleindustria.github.io/p5.play/docs/classes/p5.play.html#method-keyWentDown) for the `x` key is triggered:
 
 ```js
 function draw() {
