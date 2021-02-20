@@ -2,7 +2,7 @@
 layout: post
 title: Asteroids
 date: 2021-01-31 19:54:39
-updated: 2021-02-07 20:49:00
+updated: 2021-02-20 12:20:46
 excerpt: Asteroids clone from p5.play examples.
 categories: asteroids p5.play p5.js javascript web
 image: https://remarkablegames.org/asteroids/screenshot.png
@@ -18,11 +18,11 @@ image: https://remarkablegames.org/asteroids/screenshot.png
 
 I recreated the asteroids game from [p5.play](https://b.remarkabl.org/p5play) examples in my [2021-02-06 livestream](https://youtu.be/q-p5lZsv3LQ?list=PLVgOtoUBG2mdLpj6qT5DXfg5_pGPTDrJZ):
 
-<iframe width="100%" height="720" src="https://www.youtube.com/embed/q-p5lZsv3LQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="720" src="https://www.youtube.com/embed/q-p5lZsv3LQ?list=PLVgOtoUBG2mdLpj6qT5DXfg5_pGPTDrJZ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Code
 
-Load [images](https://github.com/remarkablegames/asteroids/tree/gh-pages/assets) with [`loadImage()`](https://p5js.org/reference/#/p5/loadImage) in [`preload()`](https://p5js.org/reference/#/p5/preload):
+Load the [images](https://github.com/remarkablegames/asteroids/tree/gh-pages/assets) with [`loadImage()`](https://p5js.org/reference/#/p5/loadImage) in [`preload()`](https://p5js.org/reference/#/p5/preload):
 
 ```js
 var shipImage;
@@ -140,7 +140,7 @@ function draw() {
 }
 ```
 
-Disable bullet firing if the player is dead:
+Prevent bullet firing when the player is dead:
 
 ```diff
  function draw() {
@@ -183,7 +183,7 @@ function draw() {
 }
 ```
 
-Helper function to create an asteroid:
+Add a helper function that creates an asteroid:
 
 ```js
 function createAsteroid(type, x, y) {
@@ -295,7 +295,7 @@ function asteroidHit(asteroid, sprite) {
 }
 ```
 
-Display text instructions for player controls:
+Display the text instructions for player controls:
 
 ```js
 function draw() {
