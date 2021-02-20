@@ -3,7 +3,7 @@ layout: post
 title: Asteroids
 date: 2021-01-31 19:54:39
 updated: 2021-02-20 12:24:46
-excerpt: Asteroids clone from p5.play examples.
+excerpt: How to create an asteroids game from p5.play examples with less than 150 lines of code.
 categories: asteroids p5.play p5.js javascript web
 image: https://remarkablegames.org/asteroids/screenshot.png
 ---
