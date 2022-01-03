@@ -2,7 +2,7 @@
 layout: post
 title: Phaser Template
 date: 2018-01-20 19:11:17
-updated: 2021-01-01 15:15:24
+updated: 2022-01-01 15:15:24
 excerpt: >-
   <p><a href="https://github.com/remarkablegames/phaser-template" target="_blank">Phaser Template</a> allows you to bootstrap Phaser games quickly. See the <a href="https://remarkablegames.org/phaser-template/" target="_blank">demo</a> below.</p>
   <iframe src="https://remarkablegames.org/phaser-template/" frameBorder="0" width="100%" height="520px"></iframe>
