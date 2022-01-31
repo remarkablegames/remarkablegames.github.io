@@ -11,6 +11,8 @@ image: https://raw.githubusercontent.com/remarkablegames/inversion/master/public
 
 <iframe src="https://remarkablegames.org/inversion/" frameBorder="0" width="100%" height="350px"></iframe>
 
+[Play the game.](https://remarkablegames.org/inversion/)
+
 ## Background
 
 The game was made during the [Global Game Jam 2022](https://globalgamejam.org/2022/games/inversion-7), in which the theme was `duality`.
