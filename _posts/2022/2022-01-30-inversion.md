@@ -26,6 +26,6 @@ The code can be found on [GitHub](https://github.com/remarkablegames/inversion).
 ## Credits
 
 - [benox3](https://github.com/benox3) - Programmer, Level Designer, Artist
-- [remarkablemark](https://github.com/benox3) - Programmer, Level Designer
+- [remarkablemark](https://github.com/remarkablemark) - Programmer, Level Designer
 - [mikewesthad](https://github.com/mikewesthad) - [Tilemaps in Phaser 3](https://github.com/mikewesthad/phaser-3-tilemap-blog-posts)
 - [0x72](https://itch.io/profile/0x72) - [16x16 Industrial Tileset](https://0x72.itch.io/16x16-industrial-tileset)
