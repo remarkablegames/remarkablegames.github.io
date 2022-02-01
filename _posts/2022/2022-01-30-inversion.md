@@ -21,7 +21,7 @@ The original concept of the game was a split screen where you control a player o
 
 We ended up pivoting on a better idea where both players just collide in the same level in order to win.
 
-The game was bootstapped from the [phaser-platformer](https://github.com/remarkablegames/phaser-platformer) template. We used [Phaser](https://phaser.io/) as the game engine and [Tiled](https://www.mapeditor.org/) as the map editor.
+The game was bootstrapped from [phaser-platformer](https://github.com/remarkablegames/phaser-platformer). We used [Phaser](https://phaser.io/) as the game engine and [Tiled](https://www.mapeditor.org/) as the map editor.
 
 The code can be found on [GitHub](https://github.com/remarkablegames/inversion).
 
