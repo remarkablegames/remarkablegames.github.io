@@ -79,9 +79,7 @@ const game = new MyGame();
 
 ## Acknowledgements
 
-This template is built on top of [web-app-template](https://github.com/remarkablemark/web-app-template), which is a stripped down version of [create-react-app](https://github.com/facebookincubator/create-react-app).
-
-In terms of deploying, it's using a [GitHub Action](https://github.com/JamesIves/github-pages-deploy-action) to deploy to [GitHub Pages](https://pages.github.com).
+This template is built with [Parcel](https://parceljs.org/) and uses a [GitHub Action](https://github.com/JamesIves/github-pages-deploy-action) to deploy to [GitHub Pages](https://pages.github.com).
 
 I'd love to hear how you plan to use [Phaser Template](https://github.com/remarkablegames/phaser-template). Contributions are welcome!
 
