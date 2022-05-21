@@ -10,7 +10,7 @@ image: https://remarkablegames.org/asteroids/screenshot.png
 
 ## Game
 
-[Asteroids](https://remarkablegames.org/asteroids/) clone from [p5.play examples](https://b.remarkabl.org/2YS6LZz). See [Repl.it](https://repl.it/talk/share/Asteroids/118514) and [repository](https://github.com/remarkablegames/asteroids).
+[Asteroids](https://remarkablegames.org/asteroids/) clone from [p5.play examples](https://b.remarkabl.org/2YS6LZz). See [Replit](https://repl.it/talk/share/Asteroids/118514) and [repository](https://github.com/remarkablegames/asteroids).
 
 <iframe src="https://remarkablegames.org/asteroids/" frameBorder="0" width="100%" height="600px"></iframe>
 
@@ -50,7 +50,7 @@ function setup() {
 }
 ```
 
-Create a ship sprite using [`createSprite()`](https://molleindustria.github.io/p5.play/docs/classes/p5.play.html#method-createSprite):
+Create a ship sprite using `createSprite()`:
 
 ```js
 function setup() {
@@ -86,7 +86,7 @@ Replace the label identifiers for [`addImage()`](https://molleindustria.github.i
  }
 ```
 
-In [`draw()`](https://p5js.org/reference/#/p5/draw), set the [`background()`](https://p5js.org/reference/#/p5/background) to black and draw the ship with [`drawSprites()`](https://molleindustria.github.io/p5.play/docs/classes/p5.play.html#method-drawSprites):
+In [`draw()`](https://p5js.org/reference/#/p5/draw), set the [`background()`](https://p5js.org/reference/#/p5/background) to black and draw the ship with `drawSprites()`:
 
 ```js
 function draw() {
@@ -95,7 +95,7 @@ function draw() {
 }
 ```
 
-Rotate the ship on [`keyDown()`](https://molleindustria.github.io/p5.play/docs/classes/p5.play.html#method-keyDown) for the [`LEFT_ARROW`](https://p5js.org/reference/#/p5/LEFT_ARROW) and [`RIGHT_ARROW`](https://p5js.org/reference/#/p5/RIGHT_ARROW) keys:
+Rotate the ship on `keyDown()` for the [`LEFT_ARROW`](https://p5js.org/reference/#/p5/LEFT_ARROW) and [`RIGHT_ARROW`](https://p5js.org/reference/#/p5/RIGHT_ARROW) keys:
 
 ```js
 function draw() {
@@ -125,7 +125,7 @@ function draw() {
 }
 ```
 
-Fire a bullet when [`keyWentDown()`](https://molleindustria.github.io/p5.play/docs/classes/p5.play.html#method-keyWentDown) for the `x` key is triggered:
+Fire a bullet when `keyWentDown()` for the `x` key is triggered:
 
 ```js
 function draw() {
@@ -318,4 +318,4 @@ ship.debug = true;
 
 This goes over how to make the asteroids game from p5.play. You can make further improvements like adding a title and game over screen and improving the physics and mechanics.
 
-Check out the [Repl.it](https://b.remarkabl.org/36ONQU6) from the livestream for the full code.
+Check out the [Replit](https://b.remarkabl.org/36ONQU6) from the livestream for the full code.
