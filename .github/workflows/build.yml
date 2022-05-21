@@ -6,14 +6,18 @@ jobs:
     env:
       # speeds up installation of html-proofer
       NOKOGIRI_USE_SYSTEM_LIBRARIES: true
+
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
+
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
           bundler-cache: true
+
       - name: Build site
         run: bundle exec jekyll build --safe
+
       - name: Run tests
-        run: bundle exec htmlproofer _site
+        run: bundle exec htmlproofer --url-ignore "/www.newgrounds.com/" _site
