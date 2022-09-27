@@ -22,7 +22,7 @@ The solution would always be generated first:
 
 ```js
 // 2x2 solution
-[1, 2, 3, null]
+[1, 2, 3, null];
 ```
 
 Then it would be shuffled to create the puzzle:
@@ -31,8 +31,8 @@ Then it would be shuffled to create the puzzle:
 // 2x2 puzzle
 [
   [2, 3],
-  [1, null]
-]
+  [1, null],
+];
 ```
 
 This is similar to the approach I used in generating a [Sudoku puzzle]({% post_url 2018/2018-03-20-sudoku %}) (minus the complex algorithm).
@@ -41,7 +41,7 @@ This is similar to the approach I used in generating a [Sudoku puzzle]({% post_u
 
 Like [Tile Matcher]({% post_url 2018/2018-01-13-tile-matcher %}), a lot of elements were borrowed and reused in the initial [fiddle](https://jsfiddle.net/remarkablemark/onaaa1zd/).
 
-<script async src="//jsfiddle.net/remarkablemark/onaaa1zd/embed/result,js,css,html/"></script>
+<script async src="https://jsfiddle.net/remarkablemark/onaaa1zd/embed/result,js,css,html/"></script>
 
 [Preact](https://github.com/developit/preact) was once again chosen to render elements like [table](https://developer.mozilla.org/docs/Learn/HTML/Tables/Basics) and [button](https://developer.mozilla.org/docs/Web/HTML/Element/button).
 

@@ -18,7 +18,7 @@ It's a [tile-matching game](https://en.wikipedia.org/wiki/Tile-matching_video_ga
 
 I wanted to try my hand at building a game without relying on a game engine&mdash;hence, I hacked my first [prototype](https://jsfiddle.net/remarkablemark/nxgqv5u3/) over a weekend.
 
-<script async src="//jsfiddle.net/remarkablemark/nxgqv5u3/embed/result,js,css,html/"></script>
+<script async src="https://jsfiddle.net/remarkablemark/nxgqv5u3/embed/result,js,css,html/"></script>
 
 ## Engine
 
@@ -34,8 +34,8 @@ The trickiest part was figuring out how to clear matching tiles. I used a [multi
 // 2x2 board
 [
   [SPADE, DIAMOND],
-  [HEART, CLUB]
-]
+  [HEART, CLUB],
+];
 ```
 
 When a tile is clicked, I check the top, right, bottom, and left adjacent tile. If there's a match, it would do another recursive check from the matched tile. The process will keep going until no more matches are found. Also, when a tile is matched, it's set to `null` to signify that it's _cleared_ from the board.
