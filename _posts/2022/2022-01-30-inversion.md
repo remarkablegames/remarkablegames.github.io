@@ -19,7 +19,7 @@ Play the game on:
 
 ## Background
 
-The game was made during the [Global Game Jam 2022](https://globalgamejam.org/2022/games/inversion-7), in which the theme was `duality`.
+The game was made during the [Global Game Jam 2022](https://v3.globalgamejam.org/2022/games/inversion-7), in which the theme was `duality`.
 
 The original concept of the game was a split screen where you control a player on the left and a player on the right with inverted movement. The goal of the game was to move both players to a certain location in order to progress to the next level.
 
