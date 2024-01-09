@@ -1,36 +1,72 @@
 ---
 layout: default
 ---
+
 {% assign date = page.updated | default: page.date %}
 <main role="main">
   <div role="header">
     <h1>{{ page.title }}</h1>
     <p>
-      <time datetime="{{ date | date_to_xmlschema }}">{{ date | date: "%b %-d, %Y" }}</time>
-      {% if page.author %} • {{ page.author }}{% endif %}
-      {% if page.meta %} • {{ page.meta }}{% endif %} •
+      <time datetime="{{ date | date_to_xmlschema }}">
+        {{ date | date: "%b %-d, %Y" }}
+      </time>
+      {% if page.author %} • {{ page.author }}{% endif %} {% if page.meta %} •
+      {{ page.meta }}{% endif %} •
       <a href="/">Home</a> •
-      <a href="{{ site.github.repository_url }}/blob/master/{{ page.relative_path }}" target="_blank" rel="noopener noreferrer">
+      <a
+        href="{{ site.github.repository_url }}/blob/master/{{ page.relative_path }}"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
         Edit
       </a>
     </p>
   </div>
-  <hr>
+  <hr />
   <article>{{ content }}</article>
   {% if site.disqus_shortname %}
-    <div id="disqus_thread"></div>
-    <script type="text/javascript">
-      window.disqus_config = function() {
-        this.page.url = '{{ page.url | prepend: site.url }}';
-        this.page.identifier = '{{ page.id | remove_first: "/posts/" | replace: "/", "-" }}';
-      };
-      (function(d,s) {
-        s = d.createElement('script');
-        s.src = 'https://{{ site.disqus_shortname }}.disqus.com/embed.js';
-        s.setAttribute('data-timestamp', +new Date());
-        s.async = 1;
-        (d.head || d.body).appendChild(s);
-      })(document);
-    </script>
+  <div id="disqus_thread"></div>
+  <script>
+    window.disqus_config = function () {
+      this.page.url = "{{ page.url | prepend: site.url }}";
+      this.page.identifier =
+        '{{ page.id | remove_first: "/posts/" | replace: "/", "-" }}';
+    };
+    (function (d, s) {
+      s = d.createElement("script");
+      s.src = "https://{{ site.disqus_shortname }}.disqus.com/embed.js";
+      s.setAttribute("data-timestamp", +new Date());
+      s.async = 1;
+      (d.head || d.body).appendChild(s);
+    })(document);
+  </script>
   {% endif %}
 </main>
+{% comment %}
+
+<!-- Copy code to clipboard -->
+{% endcomment %}
+<script>
+  document.querySelectorAll("article pre.highlight").forEach(function (pre) {
+    var button = document.createElement("button");
+    var copyText = "Copy";
+    button.type = "button";
+    button.ariaLabel = "Copy code to clipboard";
+    button.innerText = copyText;
+    button.addEventListener("click", function () {
+      var code = pre.querySelector("code").innerText;
+      try {
+        code = code.trimEnd();
+      } catch (e) {
+        code = code.trim();
+      }
+      navigator.clipboard.writeText(code);
+      button.innerText = "Copied";
+      setTimeout(function () {
+        button.blur();
+        button.innerText = copyText;
+      }, 2e3);
+    });
+    pre.appendChild(button);
+  });
+</script>

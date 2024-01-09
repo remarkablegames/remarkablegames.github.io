@@ -32,3 +32,33 @@ p {
     margin: 0 auto;
   }
 }
+
+// code block
+pre.highlight {
+  position: relative;
+
+  // show copy button when hovering over code block
+  &:hover > button {
+    background: #fff;
+    opacity: 1;
+  }
+
+  // copy code to clipboard
+  > button {
+    border: 1px solid #999;
+    border-radius: 5px;
+    color: #999;
+    opacity: 0;
+    position: absolute;
+    right: 16px;
+    top: 16px;
+    transition: all 0.1s ease-in-out;
+
+    &:active,
+    &:focus,
+    &:hover {
+      border-color: #333;
+      color: #333;
+    }
+  }
+}
