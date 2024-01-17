@@ -1,4 +1,4 @@
-# [remarkablegames.github.io](https://b.remarkabl.org/games)
+# [remarkablegames.org](https://b.remarkabl.org/games)
 
 [![build](https://github.com/remarkablegames/remarkablegames.github.io/actions/workflows/build.yml/badge.svg)](https://github.com/remarkablegames/remarkablegames.github.io/actions/workflows/build.yml)
 ![GitHub last commit](https://badgen.net/github/last-commit/remarkablegames/remarkablegames.github.io)
