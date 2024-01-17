@@ -1,6 +1,8 @@
 # [remarkablegames.github.io](https://b.remarkabl.org/games)
 
 [![build](https://github.com/remarkablegames/remarkablegames.github.io/actions/workflows/build.yml/badge.svg)](https://github.com/remarkablegames/remarkablegames.github.io/actions/workflows/build.yml)
+![GitHub last commit](https://badgen.net/github/last-commit/remarkablegames/remarkablegames.github.io)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/remarkablegames/remarkablegames.github.io)
 
 [Site](https://b.remarkabl.org/games) of [@remarkablegames](https://github.com/remarkablegames). Built with [Jekyll](https://jekyllrb.com) and hosted on [GitHub Pages](https://pages.github.com).
 
