@@ -17,9 +17,10 @@ title: remarkablegames
 email: mark@remarkablemark.org
 description: >- # this means to ignore newlines until "baseurl:"
   A collection of remarkable games.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://remarkablegames.org" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '' # the subpath of your site, e.g. /blog
+url: 'https://remarkablegames.org' # the base hostname & protocol for your site, e.g. http://example.com
 repository: remarkablegames/remarkablegames.github.io
+google_analytics_id: G-C0Y4213M4D
 disqus_shortname: remarkablegames
 
 # Build settings
