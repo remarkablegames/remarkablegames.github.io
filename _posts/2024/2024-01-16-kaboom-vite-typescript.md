@@ -1,10 +1,12 @@
 ---
 layout: post
 title: Kaboom Vite TypeScript
-date: 2024-01-16 19:15:12
+date: 2024-01-16 00:36:57
 excerpt: How to set up a [Kaboom.js](https://kaboomjs.com/) game with [Vite](https://vitejs.dev/) and [TypeScript](https://www.typescriptlang.org/).
 categories: kaboom vite typescript game
 ---
+
+<!-- prettier-ignore-start -->
 
 This post goes over how to set up a [Kaboom.js](https://kaboomjs.com/) game with [Vite](https://vitejs.dev/) and [TypeScript](https://www.typescriptlang.org/).
 
@@ -90,7 +92,7 @@ declare module '*.png' {
 }
 ```
 
-By importing `kaboom/global`, you can use of the global type definitions in your code editor.
+By importing `kaboom/global`, you add the global type definitions to your code editor.
 
 By declaring module `'*.png'`, you can use this syntax:
 
@@ -142,3 +144,5 @@ npm run build
 ## Resources
 
 - [`remarkablegames/kaboom-template`](https://github.com/remarkablegames/kaboom-template)
+
+<!-- prettier-ignore-end -->
