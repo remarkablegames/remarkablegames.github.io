@@ -21,7 +21,7 @@ jobs:
         run: bundle exec jekyll build --safe
 
       - name: Run tests
-        run: >
-          bundle exec htmlproofer _site
-            --check-external-hash false
+        run: |
+          bundle exec htmlproofer _site \
+            --check-external-hash false \
             --ignore-urls "/www.newgrounds.com/,/v3.globalgamejam.org/"
