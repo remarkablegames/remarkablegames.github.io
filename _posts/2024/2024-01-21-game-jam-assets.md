@@ -60,7 +60,7 @@ Please **check the license** before using any assets in your project and **credi
 
 ## Tools
 
-- [BitFontMaker2](http://www.pentacom.jp/pentacom/bitfontmaker2/) (Fonts)
+- [BitFontMaker2](https://www.pentacom.jp/pentacom/bitfontmaker2/) (Fonts)
 - [Photopea](https://www.photopea.com/) (Art)
 - [sfxr](https://www.drpetter.se/project_sfxr.html) (SFX)
 - [Chiptone](https://sfbgames.itch.io/chiptone) (SFX)
