@@ -8,7 +8,7 @@
 
 ## Prerequisites
 
-[Ruby](https://www.ruby-lang.org/en/downloads/) 2.7.4:
+[Ruby](https://www.ruby-lang.org/en/downloads/) 3.1.2:
 
 ```sh
 ruby --version
