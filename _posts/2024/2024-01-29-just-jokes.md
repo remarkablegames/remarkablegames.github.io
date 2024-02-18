@@ -2,12 +2,12 @@
 layout: post
 title: Just Jokes
 date: 2024-01-29 19:06:56
-excerpt: 😂 [Just Jokes](https://remarkablegames.org/just-jokes/) is party game where you make jokes with your friends.
-categories: just-jokes web react party game global-game-jam
+excerpt: 😂 [Just Jokes](https://remarkablegames.org/just-jokes/) is a party game where you make jokes with your friends.
+categories: just-jokes web react party game multiplayer global-game-jam
 image: https://raw.githubusercontent.com/remarkablegames/just-jokes/master/public/screenshots/home.png
 ---
 
-😂 [Just Jokes](https://remarkablegames.org/just-jokes/) is party game where you make jokes with your friends.
+😂 [Just Jokes](https://remarkablegames.org/just-jokes/) is a party game where you make jokes with your friends.
 
 <iframe src="https://remarkablegames.org/just-jokes/" frameBorder="0" width="100%" height="625px"></iframe>
 
