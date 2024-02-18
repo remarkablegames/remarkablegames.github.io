@@ -27,3 +27,5 @@ end
 
 # Testing
 gem 'html-proofer'
+
+gem "webrick", "~> 1.8"
