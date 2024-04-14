@@ -23,5 +23,5 @@ jobs:
       - name: Run tests
         run: >
           bundle exec htmlproofer _site
-          --ignore-urls "/www.newgrounds.com/,/globalgamejam.org/"
+          --ignore-urls "/globalgamejam.org/,/newgrounds.com/,/unrealengine.com/"
           --no-check-external-hash
