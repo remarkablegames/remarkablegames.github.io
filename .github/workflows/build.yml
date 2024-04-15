@@ -23,5 +23,6 @@ jobs:
       - name: Run tests
         run: >
           bundle exec htmlproofer _site
+          --ignore-status-codes '429,999'
           --ignore-urls "/globalgamejam.org/,/newgrounds.com/,/unrealengine.com/"
           --no-check-external-hash
