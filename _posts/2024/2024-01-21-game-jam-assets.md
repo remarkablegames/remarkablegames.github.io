@@ -2,6 +2,7 @@
 layout: post
 title: Game Jam Assets
 date: 2024-01-21 12:02:18
+updated: 2024-04-14 22:33:12
 excerpt: Game jam assets (art, audio, and tools) inspired by [GMTK Jam](https://itch.io/jam/gmtk-jam-2022).
 categories: game jam assets art audio engine tools
 ---
@@ -62,6 +63,7 @@ Please **check the license** before using any assets in your project and **credi
 
 - [BitFontMaker2](https://www.pentacom.jp/pentacom/bitfontmaker2/) (Fonts)
 - [Photopea](https://www.photopea.com/) (Art)
+- [Krita](https://krita.org/) (Art)
 - [sfxr](https://www.drpetter.se/project_sfxr.html) (SFX)
 - [Chiptone](https://sfbgames.itch.io/chiptone) (SFX)
 - [Bosca Ceoil](https://boscaceoil.net/) (Music)
