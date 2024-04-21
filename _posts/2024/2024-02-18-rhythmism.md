@@ -19,7 +19,7 @@ Play the game on:
 
 ## Background
 
-The game was made for the Rhythm Jam 2024, which the theme was Divergence:
+The game was made for the [Rhythm Jam 2024](https://itch.io/jam/rhythm-jam-2024), which the theme was `Divergence`:
 
 > a difference between two or more things, attitudes, or opinions.
 
