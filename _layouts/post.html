@@ -3,7 +3,7 @@ layout: default
 ---
 
 {% assign date = page.updated | default: page.date %}
-<main role="main">
+<main role="main" class="post">
   <div role="header">
     <h1>{{ page.title }}</h1>
     <p>
@@ -28,14 +28,14 @@ layout: default
   <div id="disqus_thread"></div>
   <script>
     window.disqus_config = function () {
-      this.page.url = "{{ page.url | prepend: site.url }}";
+      this.page.url = '{{ page.url | prepend: site.url }}';
       this.page.identifier =
         '{{ page.id | remove_first: "/posts/" | replace: "/", "-" }}';
     };
     (function (d, s) {
-      s = d.createElement("script");
-      s.src = "https://{{ site.disqus_shortname }}.disqus.com/embed.js";
-      s.setAttribute("data-timestamp", +new Date());
+      s = d.createElement('script');
+      s.src = 'https://{{ site.disqus_shortname }}.disqus.com/embed.js';
+      s.setAttribute('data-timestamp', +new Date());
       s.async = 1;
       (d.head || d.body).appendChild(s);
     })(document);
@@ -44,24 +44,38 @@ layout: default
 </main>
 {% comment %}
 
+<!-- Heading links -->
+{% endcomment %}
+<script>
+  document
+    .querySelector('.post article')
+    .querySelectorAll('h1,h2,h3,h4,h5,h6')
+    .forEach(function (heading) {
+      if (heading.id)
+        heading.innerHTML =
+          '<a href="#' + heading.id + '">' + heading.innerText + '<\/a>';
+    });
+</script>
+{% comment %}
+
 <!-- Copy code to clipboard -->
 {% endcomment %}
 <script>
-  document.querySelectorAll("article pre.highlight").forEach(function (pre) {
-    var button = document.createElement("button");
-    var copyText = "Copy";
-    button.type = "button";
-    button.ariaLabel = "Copy code to clipboard";
+  document.querySelectorAll('article pre.highlight').forEach(function (pre) {
+    var button = document.createElement('button');
+    var copyText = 'Copy';
+    button.type = 'button';
+    button.ariaLabel = 'Copy code to clipboard';
     button.innerText = copyText;
-    button.addEventListener("click", function () {
-      var code = pre.querySelector("code").innerText;
+    button.addEventListener('click', function () {
+      var code = pre.querySelector('code').innerText;
       try {
         code = code.trimEnd();
       } catch (e) {
         code = code.trim();
       }
       navigator.clipboard.writeText(code);
-      button.innerText = "Copied";
+      button.innerText = 'Copied';
       setTimeout(function () {
         button.blur();
         button.innerText = copyText;
