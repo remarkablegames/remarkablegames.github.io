@@ -2,7 +2,7 @@
 layout: post
 title: Game Jam Assets
 date: 2024-01-21 12:02:18
-updated: 2024-04-27 14:48:10
+updated: 2024-04-27 14:55:37
 excerpt: Game jam assets (art, audio, and tools) inspired by [GMTK Jam](https://itch.io/jam/gmtk-jam-2022).
 categories: game jam assets art audio engine tools
 ---
@@ -13,10 +13,17 @@ Game jam assets (art, audio, and tools) inspired by [GMTK Jam](https://itch.io/j
 - [Audio](#audio)
 - [DAW](#daw)
 - [Engines](#engines)
+  - [Cross Platform](#cross-platform)
+  - [2D](#2d)
+  - [RPG](#rpg)
+  - [Web](#web)
+  - [Multiplayer](#multiplayer)
 - [Fonts](#fonts)
 - [Tools](#tools)
 
 Please **check the license** before using any assets in your project and **credit the author** in your game’s description!
+
+---
 
 ## Art
 
@@ -29,6 +36,8 @@ Please **check the license** before using any assets in your project and **credi
 - [Mixamo](https://www.mixamo.com/) (Animations)
 - [Unplash](https://unsplash.com/) (Images)
 
+---
+
 ## Audio
 
 - [Incompetech - Royalty Free Music](https://incompetech.com/music/royalty-free/) (Music)
@@ -38,10 +47,14 @@ Please **check the license** before using any assets in your project and **credi
 - [Kenney](https://www.kenney.nl/assets?q=audio) (Music + SFX)
 - [Soniss](https://sonniss.com/gameaudiogdc) (SFX)
 
+---
+
 ## DAW
 
 - [Audacity](https://www.audacityteam.org/)
 - [FL Studio](https://www.image-line.com/)
+
+---
 
 ## Engines
 
@@ -74,11 +87,15 @@ Please **check the license** before using any assets in your project and **credi
 - [Colyseus](https://colyseus.io/)
 - [Modd.io](https://www.modd.io/)
 
+---
+
 ## Fonts
 
 - [Fontsource](https://github.com/fontsource/fontsource) (Fonts)
 - [Font Squirrel](https://www.fontsquirrel.com/) (Fonts)
 - [Google Fonts](https://fonts.google.com/) (Fonts)
+
+---
 
 ## Tools
 
