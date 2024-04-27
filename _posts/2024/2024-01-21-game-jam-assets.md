@@ -2,7 +2,7 @@
 layout: post
 title: Game Jam Assets
 date: 2024-01-21 12:02:18
-updated: 2024-04-15 21:38:06
+updated: 2024-04-27 14:48:10
 excerpt: Game jam assets (art, audio, and tools) inspired by [GMTK Jam](https://itch.io/jam/gmtk-jam-2022).
 categories: game jam assets art audio engine tools
 ---
@@ -45,13 +45,34 @@ Please **check the license** before using any assets in your project and **credi
 
 ## Engines
 
-- [Godot](https://godotengine.org/) (Cross-Platform)
-- [Unreal](https://www.unrealengine.com/) (Cross-Platform)
-- [Unity](https://unity.com/) (Cross-Platform)
-- [Game Maker](https://gamemaker.io/) (2D)
-- [RPG Maker](https://www.rpgmakerweb.com/) (RPG)
-- [Phaser](https://phaser.io/) (Web)
-- [Kaboom](https://kaboomjs.com/) (Web)
+### Cross Platform
+
+- [Godot](https://godotengine.org/)
+- [Unreal](https://www.unrealengine.com/)
+- [Unity](https://unity.com/)
+- [Defold](https://defold.com/)
+- [Cocos](https://www.cocos.com/)
+
+### 2D
+
+- [Game Maker](https://gamemaker.io/)
+
+### RPG
+
+- [RPG Maker](https://www.rpgmakerweb.com/)
+
+### Web
+
+- [Phaser](https://phaser.io/)
+- [Kaboom](https://kaboomjs.com/)
+- [8XR](https://engine.8xr.io/)
+- [Kontra](https://straker.github.io/kontra/)
+- [LittleJS](https://killedbyapixel.github.io/LittleJS/docs/)
+
+### Multiplayer
+
+- [Colyseus](https://colyseus.io/)
+- [Modd.io](https://www.modd.io/)
 
 ## Fonts
 
