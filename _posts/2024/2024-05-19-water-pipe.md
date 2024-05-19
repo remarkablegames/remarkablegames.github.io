@@ -17,6 +17,7 @@ Play the game on:
 
 - [remarkablegames](https://remarkablegames.org/water-pipe/)
 - [itch.io](https://remarkablegames.itch.io/water-pipe)
+- [Newgrounds](https://www.newgrounds.com/portal/view/930938)
 
 ## Background
 
