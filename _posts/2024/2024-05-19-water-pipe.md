@@ -2,12 +2,13 @@
 layout: post
 title: Water Pipe
 date: 2024-05-19 13:48:46
-excerpt: 🚰 [Water Pipe](/posts/water-pipe) is a casual puzzle game.
+updated: 2024-05-19 18:12:18
+excerpt: 🚰 [Water Pipe](/posts/water-pipe) is a puzzle where you connect all the pipes.
 categories: kaboom puzzle game
 image: https://remarkablegames.org/water-pipe/screenshots/water_pipe.png
 ---
 
-🚰 Water Pipe is a casual puzzle game:
+🚰 Water Pipe is a puzzle where you connect all the pipes:
 
 <iframe src="https://remarkablegames.org/water-pipe/" frameBorder="0" width="100%" height="700" style="display: block; margin: 0 auto;"></iframe>
 
