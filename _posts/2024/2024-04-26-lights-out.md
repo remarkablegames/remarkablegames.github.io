@@ -2,14 +2,16 @@
 layout: post
 title: Lights Out
 date: 2024-04-26 21:39:56
-excerpt: 💡 [Lights Out](https://remarkablegames.org/lights-out) is a game where you collect the power-ups.
+excerpt: 💡 [Lights Out](/posts/lights-out) is a game where you collect the power-ups.
 categories: phaser rpg game
 image: https://remarkablegames.org/lights-out/screenshots/screenshot3.png
 ---
 
 💡 Lights Out is a game where you collect the power-ups:
 
-<iframe src="https://remarkablegames.org/lights-out/" frameBorder="0" width="700" height="525" style="display: block; margin: 0 auto;"></iframe>
+<iframe src="https://remarkablegames.org/lights-out/" frameBorder="0" width="690" height="525" style="display: block; margin: 0 auto;"></iframe>
+
+## Play
 
 Play the game on:
 

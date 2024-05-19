@@ -3,7 +3,7 @@ layout: post
 title: Inversion
 date: 2022-01-30 23:45:10
 excerpt: >
-  [Inversion](https://remarkablegames.org/inversion/) is a 2D platformer puzzle game where you control two players that have to come together to win.
+  [Inversion](/posts/inversion/) is a 2D platformer puzzle game where you control two players that have to come together to win.
 categories: inversion puzzle platformer 2d phaser global-game-jam
 image: https://raw.githubusercontent.com/remarkablegames/inversion/master/public/screenshot.png
 ---
@@ -11,6 +11,8 @@ image: https://raw.githubusercontent.com/remarkablegames/inversion/master/public
 [Inversion](https://remarkablegames.org/inversion/) is a 2D platformer puzzle game where you control two players that have to come together to win.
 
 <iframe src="https://remarkablegames.org/inversion/" frameBorder="0" width="100%" height="350px"></iframe>
+
+## Play
 
 Play the game on:
 

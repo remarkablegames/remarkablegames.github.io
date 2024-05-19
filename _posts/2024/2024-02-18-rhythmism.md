@@ -2,7 +2,7 @@
 layout: post
 title: Rhythmism
 date: 2024-02-18 13:12:15
-excerpt: 🎶 [Rhythmism](https://remarkablegames.org/rhythmism/) is a web rhythm game.
+excerpt: 🎶 [Rhythmism](/posts/rhythmism/) is a web rhythm game.
 categories: rhythm game music web kaboom jam
 image: https://remarkablegames.org/rhythmism/screenshots/sinbad1.png
 ---
@@ -10,6 +10,8 @@ image: https://remarkablegames.org/rhythmism/screenshots/sinbad1.png
 🎶 Rhythmism is a web rhythm game:
 
 <iframe src="https://remarkablegames.org/rhythmism/" frameBorder="0" width="360" height="480" style="display: block; margin: 0 auto;"></iframe>
+
+## Play
 
 Play the game on:
 

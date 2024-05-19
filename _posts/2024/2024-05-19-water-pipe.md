@@ -9,7 +9,7 @@ image: https://remarkablegames.org/water-pipe/screenshots/water_pipe.png
 
 🚰 Water Pipe is a casual puzzle game:
 
-<iframe src="https://remarkablegames.org/water-pipe/" frameBorder="0" width="690" height="690" style="display: block; margin: 0 auto;"></iframe>
+<iframe src="https://remarkablegames.org/water-pipe/" frameBorder="0" width="100%" height="700" style="display: block; margin: 0 auto;"></iframe>
 
 ## Play
 
