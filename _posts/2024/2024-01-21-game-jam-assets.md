@@ -103,6 +103,7 @@ Please **check the license** before using any assets in your project and **credi
 - [Photopea](https://www.photopea.com/) (Art)
 - [Krita](https://krita.org/) (Art)
 - [Piskel](https://www.piskelapp.com/) (Art)
+- [LibreSprite](https://libresprite.github.io/) (Pixel Art)
 - [sfxr](https://www.drpetter.se/project_sfxr.html) (SFX)
 - [Chiptone](https://sfbgames.itch.io/chiptone) (SFX)
 - [Bosca Ceoil](https://boscaceoil.net/) (Music)
