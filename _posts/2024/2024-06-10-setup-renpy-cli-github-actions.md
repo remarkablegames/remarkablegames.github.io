@@ -2,6 +2,7 @@
 layout: post
 title: Ren'Py CLI GitHub Actions
 date: 2024-06-10 19:33:05
+updated: 2024-06-12 14:24:55
 excerpt: How to set up [GitHub Actions](https://github.com/features/actions) workflow with [Ren'Py CLI](https://www.renpy.org/doc/html/cli.html).
 categories: renpy cli github actions
 ---
@@ -23,14 +24,33 @@ jobs:
         uses: remarkablegames/setup-renpy@v1
 ```
 
-The action downloads the [Ren'Py SDK](https://www.renpy.org/latest.html) for Linux or macOS machines (Windows is not supported), and exposes the `renpy-cli` and `renpy-launcher` binaries:
+The action downloads the [Ren'Py SDK](https://www.renpy.org/latest.html), and exposes the `renpy-cli` and `renpy-launcher` binaries for Linux/macOS and `renpy` executable for Windows:
 
 ```yml
-- name: Get Ren'Py CLI version
-  run: renpy-cli --version
+# .github/workflows/renpy.yml
+on: push
+jobs:
+  renpy-linux:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Setup Ren'Py
+        uses: remarkablegames/setup-renpy@v1
 
-- name: Set Ren'Py projects directory
-  run: renpy-launcher set_projects_directory ..
+      - name: Ren'Py version
+        run: |
+          renpy-cli --version
+          renpy-cli --help
+
+  renpy-windows:
+    runs-on: windows-latest
+    steps:
+      - name: Setup Ren'Py
+        uses: remarkablegames/setup-renpy@v1
+
+      - name: Ren'Py version
+        run: |
+          renpy-cli --version
+          renpy-cli --help
 ```
 
 ## Usage
@@ -78,6 +98,8 @@ jobs:
       - name: Web build
         run: renpy-launcher web_build . --destination dist
 ```
+
+> `renpy-launcher` is only available for Linux/macOS and is not available for Windows.
 
 ## Resources
 
