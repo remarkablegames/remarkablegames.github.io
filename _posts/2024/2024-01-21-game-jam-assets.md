@@ -29,6 +29,7 @@ Please **check the license** before using any assets in your project and **credi
 
 - [OpenGameArt](https://opengameart.org/) (2D + 3D)
 - [Kenney](https://www.kenney.nl/assets) (2D + 3D)
+- [itch.io](https://itch.io/game-assets/free)
 - [Game-Icons](https://game-icons.net/) (2D)
 - [Textures.com](https://www.textures.com/) (Textures)
 - [Poliigon](https://www.poliigon.com/search?credit=0) (Textures)
