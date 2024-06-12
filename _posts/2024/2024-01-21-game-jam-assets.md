@@ -91,9 +91,11 @@ Please **check the license** before using any assets in your project and **credi
 
 ## Fonts
 
-- [Fontsource](https://github.com/fontsource/fontsource) (Fonts)
-- [Font Squirrel](https://www.fontsquirrel.com/) (Fonts)
-- [Google Fonts](https://fonts.google.com/) (Fonts)
+- [1001 Fonts](https://www.1001fonts.com/)
+- [DaFont](https://www.dafont.com/)
+- [Fontsource](https://github.com/fontsource/fontsource)
+- [Font Squirrel](https://www.fontsquirrel.com/)
+- [Google Fonts](https://fonts.google.com/)
 
 ---
 
