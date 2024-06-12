@@ -105,6 +105,7 @@ Please **check the license** before using any assets in your project and **credi
 - [BitFontMaker2](https://www.pentacom.jp/pentacom/bitfontmaker2/) (Fonts)
 - [Photopea](https://www.photopea.com/) (Art)
 - [Krita](https://krita.org/) (Art)
+- [Inkscape](https://inkscape.org/) (Vector)
 - [Piskel](https://www.piskelapp.com/) (Pixel Art)
 - [LibreSprite](https://libresprite.github.io/) (Pixel Art)
 - [sfxr](https://www.drpetter.se/project_sfxr.html) (SFX)
