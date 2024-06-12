@@ -47,6 +47,7 @@ Please **check the license** before using any assets in your project and **credi
 - [OpenGameArt](https://opengameart.org/) (Music + SFX)
 - [Kenney](https://www.kenney.nl/assets?q=audio) (Music + SFX)
 - [Soniss](https://sonniss.com/gameaudiogdc) (SFX)
+- [ZapSplat](https://www.zapsplat.com/) (SFX)
 
 ---
 
