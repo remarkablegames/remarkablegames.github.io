@@ -11,7 +11,7 @@ This post goes over how to set up [GitHub Actions](https://github.com/features/a
 
 ## Action
 
-To set up GitHub Actions with Ren'Py CLI, use [`remarkablegames/setup-renpy`](https://github.com/marketplace/actions/setup-renpy):
+To set up GitHub Actions with Ren'Py CLI, use [setup-renpy](https://github.com/marketplace/actions/setup-renpy):
 
 ```yml
 # .github/workflows/renpy.yml
