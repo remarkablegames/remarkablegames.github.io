@@ -80,7 +80,7 @@ Please **check the license** before using any assets in your project and **credi
 
 - [Phaser](https://phaser.io/)
 - [Kaboom](https://kaboomjs.com/)
-- [8XR](https://engine.8xr.io/)
+- [8XR](https://8xr.io/)
 - [Kontra](https://straker.github.io/kontra/)
 - [LittleJS](https://killedbyapixel.github.io/LittleJS/docs/)
 
