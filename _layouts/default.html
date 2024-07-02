@@ -34,7 +34,7 @@
           <h3>Links</h3>
           <ul>
             {% for page in site.html_pages %}
-              {% if page.title %}
+              {% if page.title and page.title != 404 %}
                 <li><a href="{{ page.url }}">{{ page.title }}</a></li>
               {% endif %}
             {% endfor %}
