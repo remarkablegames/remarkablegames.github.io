@@ -16,9 +16,9 @@ See the [submission](https://itch.io/jam/ost-composing-jam-7/rate/2844286).
 
 ## Soundtrack
 
-Download the audio and flp project on [itch.io](https://remarkablegames.itch.io/inside-my-world).
+Download the audio and flp project on [itch.io](https://remarkablegames.itch.io/inside-my-world) or listen on [Newgrounds](https://www.newgrounds.com/audio/listen/1342941).
 
-Details:
+Track details:
 
 - Theme: "inside my world"
 - BPM: 130
