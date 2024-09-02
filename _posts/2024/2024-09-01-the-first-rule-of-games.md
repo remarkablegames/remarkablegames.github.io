@@ -2,11 +2,11 @@
 layout: post
 title: The First Rule of Games
 date: 2024-09-01 16:01:47
-excerpt: The first rule of games is that is has to be fun!
+excerpt: The first rule of games is that it has to be fun!
 categories: game development philosophy
 ---
 
-If you're making a game, the first rule is that the game has to be **fun**. If it's not fun, then people won't play it.
+If you're making a game, the first rule is that it has to be **fun**. If it's not fun, then people won't play it.
 
 Players might say they like a game's art, story, dialogue, audio, and/or character design, but what engages them is the **gameplay**. Everything else only complements. You can have a game with minimal aesthetics and yet the game can still be fun.
 
