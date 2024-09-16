@@ -21,17 +21,21 @@ Play the game on:
 
 ## Background
 
-We joined [GTMTK Game Jam 2024](https://itch.io/jam/gmtk-2024), which the theme was `Built to Scale`.
+We joined the [GTMTK Game Jam 2024](https://itch.io/jam/gmtk-2024), which the theme was `Built to Scale`.
 
-We created a game design document and brainstormed on [Excalidraw](https://excalidraw.com/#json=y8nO6uwZN7OQLXonmG9WB,TJgAuz71GFU8QkH8YdFVoA). We decided to make a visual novel game with RPG mechanics. You play as an entrepreneur in building a scaling business.
+We brainstormed on [Excalidraw](https://excalidraw.com/#json=y8nO6uwZN7OQLXonmG9WB,TJgAuz71GFU8QkH8YdFVoA) and created a game design document. We decided to make a visual novel game with RPG mechanics. You play as an entrepreneur in building a scaling business.
 
-We chose [Ren'Py](https://www.renpy.org/) as the game engine and wrote an initial script. We generated the repository from [remarkablegames/renpy-template](https://github.com/remarkablegames/renpy-template).
+We chose [Ren'Py](https://www.renpy.org/) as the game engine and wrote an initial script. We generated the repository from [`remarkablegames/renpy-template`](https://github.com/remarkablegames/renpy-template).
 
-We then added the core mechanics such as day cycle with actions that increases and decreases stats like energy, intelligence, charisma, and money.
+We then added core mechanics:
+
+- day-and-night cycle
+- RPG stats
+- daily events
 
 We shortened the gameplay from 30 days to 21 and rebalanced the game so it's easier. We then did some last minute polishing and trimming of fat before submitting it to the 96-hour [game jam](https://itch.io/jam/gmtk-2024/rate/2910953).
 
-The game is open sourced on [GitHub](https://github.com/remarkablegames/built-to-scale). Let me know what you think!
+You can find our game on [GitHub](https://github.com/remarkablegames/built-to-scale). Let us know what you think!
 
 ## Credits
 
