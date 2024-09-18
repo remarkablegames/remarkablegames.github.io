@@ -31,7 +31,6 @@ Please **check the license** before using any assets in your project and **credi
 - [Kenney](https://www.kenney.nl/assets) (2D + 3D)
 - [itch.io](https://itch.io/game-assets/free)
 - [ambientCG](https://ambientcg.com/) (3D)
-- [Game-Icons](https://game-icons.net/) (2D)
 - [Textures.com](https://www.textures.com/) (Textures)
 - [Poliigon](https://www.poliigon.com/search?credit=0) (Textures)
 - [Poly.pizza](https://poly.pizza/) (3D)
