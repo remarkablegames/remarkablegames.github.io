@@ -2,7 +2,7 @@
 layout: post
 title: Phaser Template
 date: 2018-01-20 19:11:17
-updated: 2022-01-01 15:15:24
+updated: 2024-09-28 22:21:06
 excerpt: >-
   <p><a href="https://github.com/remarkablegames/phaser-template" target="_blank">Phaser Template</a> allows you to bootstrap Phaser games quickly. See the <a href="https://remarkablegames.org/phaser-template/" target="_blank">demo</a> below.</p>
   <iframe src="https://remarkablegames.org/phaser-template/" frameBorder="0" width="100%" height="520px"></iframe>
@@ -79,7 +79,7 @@ const game = new MyGame();
 
 ## Acknowledgements
 
-This template is built with [Parcel](https://parceljs.org/) and uses a [GitHub Action](https://github.com/JamesIves/github-pages-deploy-action) to deploy to [GitHub Pages](https://pages.github.com).
+This template is built with [Vite](https://vitejs.dev/) and uses a [GitHub Action](https://github.com/remarkablemark/gitploy-action) to deploy to [GitHub Pages](https://pages.github.com).
 
 I'd love to hear how you plan to use [Phaser Template](https://github.com/remarkablegames/phaser-template). Contributions are welcome!
 
