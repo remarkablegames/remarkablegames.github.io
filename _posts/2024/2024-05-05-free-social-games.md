@@ -44,6 +44,8 @@ Here's a list of free social/multiplayer/group games to play with your friends:
 - Bobble Bash
 - Chef Showdown
 - Colonist
+- Krunker Strike
+- BOPZ.io
 
 [Gidd.io](https://gidd.io/):
 
