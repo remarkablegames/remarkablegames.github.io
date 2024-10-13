@@ -2,6 +2,7 @@
 layout: post
 title: Free Social Games
 date: 2024-05-05 19:04:58
+updated: 2024-10-13 17:15:15
 excerpt: Free online social games to play with your friends!
 categories: free multiplayer social group games
 ---
@@ -126,7 +127,6 @@ Here's a list of free social/multiplayer/group games to play with your friends:
 ## Social Deduction
 
 - [Betrayal.io](https://betrayal.io/)
-- [Spyfall](https://www.spyfall.app/)
 - [One Night Ultimate Werewolf](https://netgames.io/games/onu-werewolf/)
 - [Fake Artist Online](https://fake-artist-online.games.asta.uni-goettingen.de/)
 
