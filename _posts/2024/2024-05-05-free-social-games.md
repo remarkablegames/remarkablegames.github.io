@@ -2,7 +2,7 @@
 layout: post
 title: Free Social Games
 date: 2024-05-05 19:04:58
-updated: 2024-10-13 17:15:15
+updated: 2024-11-30 20:35:14
 excerpt: Free online social games to play with your friends!
 categories: free multiplayer social group games
 ---
@@ -84,8 +84,9 @@ Here's a list of free social/multiplayer/group games to play with your friends:
 
 - [Gartic Phone - The Telephone Game](https://garticphone.com/)
 - [Gartic.io - Draw, Guess, WIN](https://gartic.io/)
-- [Skribbl - Free Multiplayer Drawing & Guessing Game](https://skribbl.io/)
+- [Gogogo! - The party game!](https://gogogo.gg/)
 - [Sketchful.io - Multiplayer Drawing and Guessing Pictionary](https://sketchful.io/)
+- [Skribbl - Free Multiplayer Drawing & Guessing Game](https://skribbl.io/)
 - [draw battle! a competitive team drawing game](https://drawbattle.io/)
 
 ---
@@ -138,6 +139,7 @@ Here's a list of free social/multiplayer/group games to play with your friends:
 
 - [1v1.LOL - Building Simulator, Battle Royale & Shooting Game](https://1v1.lol/)
 - [Curve Fever](https://curvefever.pro/)
+- [Death by AI](https://deathbyai.gg/)
 
 ---
 
