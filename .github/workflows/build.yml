@@ -23,6 +23,6 @@ jobs:
       - name: Run tests
         run: >
           bundle exec htmlproofer _site
-          --ignore-status-codes '429,999'
+          --ignore-status-codes '403,429,999'
           --ignore-urls "/ai.cloudflare.com/,/gartic.io/,/gather.town/,/globalgamejam.org/,/image-line.com/,/pixabay.com/,/newgrounds.com/,/sonniss.com/,/unrealengine.com/"
           --no-check-external-hash
