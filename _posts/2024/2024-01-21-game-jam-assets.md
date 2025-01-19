@@ -2,7 +2,7 @@
 layout: post
 title: Game Jam Assets
 date: 2024-01-21 12:02:18
-updated: 2024-08-09 20:11:12
+updated: 2025-01-19 16:01:22
 excerpt: Game jam assets (art, audio, and tools) inspired by [GMTK Jam](https://itch.io/jam/gmtk-jam-2022).
 categories: game jam assets art audio engine tools
 ---
@@ -19,6 +19,7 @@ Game jam assets (art, audio, and tools) inspired by [GMTK Jam](https://itch.io/j
   - [Web](#web)
   - [Multiplayer](#multiplayer)
 - [Fonts](#fonts)
+- [Resources](#resources)
 - [Tools](#tools)
 
 Please **check the license** before using any assets in your project and **credit the author** in your game’s description!
@@ -98,6 +99,13 @@ Please **check the license** before using any assets in your project and **credi
 - [Fontsource](https://github.com/fontsource/fontsource)
 - [Font Squirrel](https://www.fontsquirrel.com/)
 - [Google Fonts](https://fonts.google.com/)
+
+---
+
+## Resources
+
+- [Resources for Jammers](https://docs.google.com/document/d/1qQf5zjvJHEB40xYhTiFo9GzNYUBt8iAw8vzPu2Oy354/edit)
+- [Tiny Tools](https://github.com/everestpipkin/tools-list)
 
 ---
 
