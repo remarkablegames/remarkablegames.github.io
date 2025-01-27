@@ -17,6 +17,7 @@ Play the game on:
 
 - [remarkablegames](https://remarkablegames.org/bubble-gun)
 - [itch.io](https://remarkablegames.itch.io/bubble-gun)
+- [newgrounds](https://www.newgrounds.com/portal/view/966187)
 
 ## How to Play
 
