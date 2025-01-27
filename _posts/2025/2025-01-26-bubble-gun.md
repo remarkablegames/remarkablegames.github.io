@@ -4,7 +4,7 @@ title: Bubble Gun
 date: 2025-01-26 18:47:34
 excerpt: 💦 🔫 [Shoot bubbles at enemies!](/posts/bubble-gun)
 categories: web kaplay ggj arcade survival
-image: https://remarkablegames.org/bubble-gun/screenshots/screenshot1.png
+image: https://remarkablegames.org/bubble-gun/images/cover.png
 ---
 
 💦 🔫 <kbd>Bubble Gun</kbd> is a top-down survival game where you shoot bubbles at enemies.
