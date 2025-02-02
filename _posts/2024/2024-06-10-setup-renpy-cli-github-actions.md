@@ -78,7 +78,7 @@ jobs:
 
 ### Web Build
 
-[Builds a release of the game for web](https://www.renpy.org/doc/html/cli.html#web-build):
+[Builds a web release of the game](https://www.renpy.org/doc/html/cli.html#web-build):
 
 ```yml
 # .github/workflows/build.yml
@@ -99,7 +99,7 @@ jobs:
         run: renpy-launcher web_build . --destination dist
 ```
 
-> `renpy-launcher` is only available for Linux/macOS and is not available for Windows.
+> `renpy-launcher` is only available on Linux/macOS and is not available on Windows.
 
 ## Resources
 
