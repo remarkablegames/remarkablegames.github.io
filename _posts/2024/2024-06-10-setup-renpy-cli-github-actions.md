@@ -103,5 +103,6 @@ jobs:
 
 ## Resources
 
-- [remarkablegames/renpy-template](https://github.com/remarkablegames/renpy-template)
 - [remarkablegames/setup-renpy](https://github.com/remarkablegames/setup-renpy)
+- [remarkablegames/renpy-template](https://github.com/remarkablegames/renpy-template)
+- [remarkablegames/renpy-examples](https://github.com/remarkablegames/renpy-examples)
