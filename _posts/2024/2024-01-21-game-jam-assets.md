@@ -2,7 +2,7 @@
 layout: post
 title: Game Jam Assets
 date: 2024-01-21 12:02:18
-updated: 2025-01-19 16:01:22
+updated: 2025-04-14 16:19:59
 excerpt: Game jam assets (art, audio, and tools) inspired by [GMTK Jam](https://itch.io/jam/gmtk-jam-2022).
 categories: game jam assets art audio engine tools
 ---
@@ -117,10 +117,11 @@ Please **check the license** before using any assets in your project and **credi
 - [Inkscape](https://inkscape.org/) (Vector)
 - [Piskel](https://www.piskelapp.com/) (Pixel Art)
 - [LibreSprite](https://libresprite.github.io/) (Pixel Art)
+- [MagicaVoxel](https://ephtracy.github.io/) (Voxel Art)
 - [sfxr](https://www.drpetter.se/project_sfxr.html) (SFX)
 - [Chiptone](https://sfbgames.itch.io/chiptone) (SFX)
 - [Bosca Ceoil](https://boscaceoil.net/) (Music)
 - [BeepBox](https://www.beepbox.co/) (Music)
 - [Lospec](https://lospec.com/palette-list) (Palettes)
 - [Tiny Tools](https://tinytools.directory/) (More!)
-- [Tiled](https://www.mapeditor.org/) (2D Map Editor)
+- [Tiled](https://www.mapeditor.org/) (2D Map)
