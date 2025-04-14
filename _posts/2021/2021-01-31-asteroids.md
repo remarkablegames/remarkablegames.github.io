@@ -10,7 +10,7 @@ image: https://remarkablegames.org/asteroids/screenshot.png
 
 ## Game
 
-[Asteroids](https://remarkablegames.org/asteroids/) clone from [p5.play examples](https://b.remarkabl.org/2YS6LZz). See [Replit](https://repl.it/talk/share/Asteroids/118514) and [repository](https://github.com/remarkablegames/asteroids).
+[Asteroids](https://remarkablegames.org/asteroids/) clone from [p5.play examples](https://b.remarkabl.org/2YS6LZz). See [Replit](https://replit.com/@remarkablemark/asteroids) and [repository](https://github.com/remarkablegames/asteroids).
 
 <iframe src="https://remarkablegames.org/asteroids/" frameBorder="0" width="100%" height="600px"></iframe>
 
