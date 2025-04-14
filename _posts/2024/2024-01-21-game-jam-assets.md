@@ -21,6 +21,7 @@ Game jam assets (art, audio, and tools) inspired by [GMTK Jam](https://itch.io/j
 - [Fonts](#fonts)
 - [Resources](#resources)
 - [Tools](#tools)
+- [Lists](#lists)
 
 Please **check the license** before using any assets in your project and **credit the author** in your game’s description!
 
@@ -125,3 +126,9 @@ Please **check the license** before using any assets in your project and **credi
 - [Lospec](https://lospec.com/palette-list) (Palettes)
 - [Tiny Tools](https://tinytools.directory/) (More!)
 - [Tiled](https://www.mapeditor.org/) (2D Map)
+
+---
+
+## Lists
+
+- [MagicTools](https://github.com/ellisonleao/magictools)
