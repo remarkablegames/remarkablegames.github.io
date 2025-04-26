@@ -8,7 +8,7 @@ categories: kaboom puzzle game
 image: https://remarkablegames.org/water-pipe/screenshots/water_pipe.png
 ---
 
-🚰 Water Pipe is a puzzle where you connect all the pipes:
+🚰 <kbd>Water Pipe</kbd> is a puzzle where you connect all the pipes:
 
 <iframe src="https://remarkablegames.org/water-pipe/" frameBorder="0" width="100%" height="700" style="display: block; margin: 0 auto;"></iframe>
 
@@ -22,7 +22,7 @@ Play the game on:
 
 ## Background
 
-The game was made for [Pixel Game Jam 2024](https://itch.io/jam/-pixel-game-jam-2024), which the theme was `AQUA`.
+This game was made for **Pixel Game Jam 2024**, which the theme was `AQUA`.
 
 I choose the [Kaboom.js](https://kaboomjs.com/) framework and created the proof-of-concept in [Replit](https://replit.com/@remarkablemark/Water-Pipe).
 
