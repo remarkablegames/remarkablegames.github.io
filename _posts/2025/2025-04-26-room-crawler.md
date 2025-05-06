@@ -22,13 +22,13 @@ Play the game on:
 
 This game was made for [Gamedev.js Jam 2025](https://itch.io/jam/gamedevjs-2025), which the theme was `Balance`.
 
-I wanted to make a point-and-click, turn-based combat so I bootstrapped the game from [renpy-roguelike](https://github.com/remarkablegames/renpy-roguelike).
+I bootstrapped the game from [renpy-roguelike](https://github.com/remarkablegames/renpy-roguelike) so that I could make a point-and-click, turn-based combat.
 
-Although [Ren'Py](https://www.renpy.org/) is a visual novel engine, I was able to borrow mechanics from [Built to Scale]({% post_url 2024/2024-08-20-built-to-scale %}) and [Haunted Heir]({% post_url 2024/2024-09-16-haunted-heir %}).
+[Ren'Py](https://www.renpy.org/) is a visual novel engine, but I was able to borrow mechanics from my previous games [Built to Scale]({% post_url 2024/2024-08-20-built-to-scale %}) and [Haunted Heir]({% post_url 2024/2024-09-16-haunted-heir %}).
 
-To make the RPG mechanics work, I wrote a lot of Python code. For reusability, I created classes for the player and enemy characters. To make the game more interesting, I added RNG (random number generation) so the stats, skills, and rewards. Also, there is a shop system for you to manage your economy. Lastly, I added an exploration mechanic to fit with the roguelike theme.
+To make the RPG system work, I created classes for the player and enemy characters. I also added RNG (random number generation) to the stats, skills, and rewards. The shop interface gives the player choices about the economy and I added an exploration mechanic to fit with the roguelike theme.
 
-In the end, I was able to create 10 encounters, in which you face 1 to 3 enemies. After beating the game, you can choose to continue playing and the encounters are randomly generated.
+Ultimately, I created 10 levels, where you face between 1 to 3 enemies. After beating the game, you can choose to continue playing with randomly generated enemies.
 
 The game is open sourced on [GitHub](https://github.com/remarkablegames/room-crawler). Let me know what you think!
 
