@@ -84,3 +84,26 @@ layout: default
     pre.appendChild(button);
   });
 </script>
+
+{% comment %}
+
+<!-- Toggle iframe fullscreen -->
+{% endcomment %}
+<script>
+  document
+    .querySelectorAll('iframe[src^="https://remarkablegames.org/"]')
+    .forEach(function (iframe) {
+      var button = document.createElement('button');
+      button.type = 'button';
+      button.innerHTML = 'Fullscreen ⛶';
+      button.style.float = 'right';
+      button.addEventListener('click', function () {
+        if (document.fullscreenElement) {
+          document.exitFullscreen();
+        } else {
+          iframe.requestFullscreen();
+        }
+      });
+      iframe.parentNode.insertBefore(button, iframe.nextSibling);
+    });
+</script>
