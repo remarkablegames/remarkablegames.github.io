@@ -22,7 +22,7 @@ Play the game on:
 
 This game was made for [Gamedev.js Jam 2025](https://itch.io/jam/gamedevjs-2025), which the theme was `Balance`.
 
-I bootstrapped the game from [renpy-roguelike](https://github.com/remarkablegames/renpy-roguelike) so that I could make a point-and-click, turn-based combat.
+I bootstrapped the game from [renpy-rpg](https://github.com/remarkablegames/renpy-rpg) so that I could make a point-and-click, turn-based combat.
 
 [Ren'Py](https://www.renpy.org/) is a visual novel engine, but I was able to borrow mechanics from my previous games [Built to Scale]({% post_url 2024/2024-08-20-built-to-scale %}) and [Haunted Heir]({% post_url 2024/2024-09-16-haunted-heir %}).
 
