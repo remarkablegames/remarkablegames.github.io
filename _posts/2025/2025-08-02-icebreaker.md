@@ -2,7 +2,7 @@
 layout: post
 title: Icebreaker
 date: 2025-08-02 19:42:28
-excerpt: 🧊 [Icebreaker questions.](/posts/icebreaker)
+excerpt: 🧊 [Icebreaker questions.](/posts/icebreaker/)
 categories: web preact vite icebreaker
 ---
 

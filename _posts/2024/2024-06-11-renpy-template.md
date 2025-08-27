@@ -3,7 +3,7 @@ layout: post
 title: Ren'Py Template
 date: 2024-06-11 13:10:54
 excerpt: >
-  [Ren'Py Template](https://github.com/remarkablegames/renpy-template) allows you to bootstrap [Ren'Py](https://www.renpy.org/) visual novel games quickly.
+  [Ren'Py Template](/posts/renpy-template) allows you to bootstrap [Ren'Py](https://www.renpy.org/) visual novel games quickly.
 categories: renpy template visual novel game
 ---
 
