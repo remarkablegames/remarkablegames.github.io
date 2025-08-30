@@ -2,6 +2,7 @@
 layout: post
 title: Upload to itch.io with butler
 date: 2024-02-25 13:12:55
+updated: 2025-08-30 02:10:5
 excerpt: How to upload a game to [itch.io](https://itch.io/) with [butler](https://itch.io/docs/butler/) and [GitHub Actions](https://github.com/features/actions).
 categories: itch.io butler github actions cli
 ---
@@ -27,7 +28,7 @@ butler push directory user/game:channel
 - Replace `directory` with the folder or `.zip` file of your built game
 - Replace `user` with your itch.io username
 - Replace `game` with your game name
-- Replace `channel` with your project type (e.g., html5, linux, windows, osx, etc.)
+- Replace `channel` with your project type (e.g., web, linux, windows, mac, etc.)
 
 ## GitHub Actions
 
