@@ -44,7 +44,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Setup butler
-        uses: remarkablegames/setup-butler@v1
+        uses: remarkablegames/setup-butler@v2
 
       - name: Upload to itch.io
         run: butler push directory user/game:channel
