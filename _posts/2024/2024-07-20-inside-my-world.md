@@ -2,8 +2,7 @@
 layout: post
 title: inside my world
 date: 2024-07-20 15:04:45
-excerpt: >
-  [inside my world](/posts/inside-my-world) is a soundtrack made for the [OST Composing Jam #7](https://itch.io/jam/ost-composing-jam-7).
+excerpt: 🎶 [inside my world](/posts/inside-my-world) is a soundtrack made for the [OST Composing Jam #7](https://itch.io/jam/ost-composing-jam-7).
 categories: soundtrack ost game jam
 image: /assets/images/2024/2024-07-20-inside-my-world.jpeg
 ---
