@@ -2,6 +2,7 @@
 layout: post
 title: Ren'Py timed slider minigame
 date: 2025-10-05 20:42:24
+updated: 2025-10-16 18:17:20
 excerpt: How to create a timed slider minigame in Ren'Py.
 categories: renpy slider minigame python
 ---
@@ -59,6 +60,13 @@ And initialize it:
 
 ```py
 default slider = Slider()
+```
+
+_Optional:_ If you want the target to be at the center:
+
+```diff
+-self.xpos_target = renpy.random.randint(0, self.WIDTH_MAX - self.WIDTH - self.PADDING)
++self.xpos_target = (self.WIDTH_MAX - self.WIDTH - self.PADDING) // 2
 ```
 
 ## Screen
