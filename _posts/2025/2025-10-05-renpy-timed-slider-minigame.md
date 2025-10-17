@@ -2,7 +2,7 @@
 layout: post
 title: Ren'Py timed slider minigame
 date: 2025-10-05 20:42:24
-updated: 2025-10-16 18:17:20
+updated: 2025-10-17 19:46:36
 excerpt: How to create a timed slider minigame in Ren'Py.
 categories: renpy slider minigame python
 ---
@@ -90,6 +90,7 @@ screen slider():
             ysize 50
 
             bar:
+                right_bar Solid((255, 255, 255, 100))
                 xsize slider.xsize
                 xpos slider.xpos_target
 
@@ -188,6 +189,7 @@ screen slider():
             ysize 50
 
             bar:
+                right_bar Solid((255, 255, 255, 100))
                 xsize slider.xsize
                 xpos slider.xpos_target
 
