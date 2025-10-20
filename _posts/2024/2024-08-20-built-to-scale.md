@@ -19,7 +19,7 @@ Play the game on:
 - [itch.io](https://remarkablegames.itch.io/built-to-scale)
 - [newgrounds](https://www.newgrounds.com/portal/view/945558)
 
-Download:
+Or download:
 
 - [Mac](https://github.com/remarkablegames/built-to-scale/releases/latest/download/mac.zip)
 - [Windows](https://github.com/remarkablegames/built-to-scale/releases/latest/download/pc.zip)

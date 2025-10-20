@@ -18,7 +18,7 @@ Play the game on:
 - [remarkablegames](https://remarkablegames.org/assembly-city)
 - [itch.io](https://remarkablegames.itch.io/assembly-city)
 
-Download:
+Or download:
 
 - [Mac](https://github.com/remarkablegames/assembly-city/releases/latest/download/mac.zip)
 - [Windows](https://github.com/remarkablegames/assembly-city/releases/latest/download/pc.zip)

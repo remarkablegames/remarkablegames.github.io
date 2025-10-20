@@ -18,7 +18,7 @@ Play the game on:
 - [remarkablegames](https://remarkablegames.org/room-crawler)
 - [itch.io](https://remarkablegames.itch.io/room-crawler)
 
-Download:
+Or download:
 
 - [Mac](https://github.com/remarkablegames/room-crawler/releases/latest/download/mac.zip)
 - [Windows](https://github.com/remarkablegames/room-crawler/releases/latest/download/pc.zip)

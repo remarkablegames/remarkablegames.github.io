@@ -18,7 +18,7 @@ Play the game on:
 - [remarkablegames](https://remarkablegames.org/haunted-heir)
 - [itch.io](https://remarkablegames.itch.io/haunted-heir)
 
-Download:
+Or download:
 
 - [Mac](https://github.com/remarkablegames/haunted-heir/releases/latest/download/mac.zip)
 - [Windows](https://github.com/remarkablegames/haunted-heir/releases/latest/download/pc.zip)
