@@ -19,6 +19,11 @@ Play the game on:
 - [itch.io](https://remarkablegames.itch.io/built-to-scale)
 - [newgrounds](https://www.newgrounds.com/portal/view/945558)
 
+Download:
+
+- [Mac](https://github.com/remarkablegames/built-to-scale/releases/latest/download/mac.zip)
+- [Windows](https://github.com/remarkablegames/built-to-scale/releases/latest/download/pc.zip)
+
 ## Background
 
 We joined the [GTMTK Game Jam 2024](https://itch.io/jam/gmtk-2024), which the theme was `Built to Scale`.

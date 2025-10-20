@@ -18,6 +18,11 @@ Play the game on:
 - [remarkablegames](https://remarkablegames.org/room-crawler)
 - [itch.io](https://remarkablegames.itch.io/room-crawler)
 
+Download:
+
+- [Mac](https://github.com/remarkablegames/room-crawler/releases/latest/download/mac.zip)
+- [Windows](https://github.com/remarkablegames/room-crawler/releases/latest/download/pc.zip)
+
 ## Background
 
 This game was made for [Gamedev.js Jam 2025](https://itch.io/jam/gamedevjs-2025), which the theme was `Balance`.

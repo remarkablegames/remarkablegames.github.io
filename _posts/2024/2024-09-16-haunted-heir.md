@@ -18,6 +18,11 @@ Play the game on:
 - [remarkablegames](https://remarkablegames.org/haunted-heir)
 - [itch.io](https://remarkablegames.itch.io/haunted-heir)
 
+Download:
+
+- [Mac](https://github.com/remarkablegames/haunted-heir/releases/latest/download/mac.zip)
+- [Windows](https://github.com/remarkablegames/haunted-heir/releases/latest/download/pc.zip)
+
 ## Background
 
 This horror visual novel was made for [Spooktober 6th Annual Visual Novel Jam](https://itch.io/jam/spooktober-2024).

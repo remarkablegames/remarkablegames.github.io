@@ -18,6 +18,13 @@ Play the game on:
 - [remarkablegames](https://remarkablegames.org/assembly-city)
 - [itch.io](https://remarkablegames.itch.io/assembly-city)
 
+Download:
+
+- [Mac](https://github.com/remarkablegames/assembly-city/releases/latest/download/mac.zip)
+- [Windows](https://github.com/remarkablegames/assembly-city/releases/latest/download/pc.zip)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R2FQy8yn7dM?si=m8Q23zvTP2zBymad" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## How To Play
 
 - Drag the card to the citizen.
