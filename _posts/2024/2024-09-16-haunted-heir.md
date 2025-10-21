@@ -2,9 +2,10 @@
 layout: post
 title: Haunted Heir
 date: 2024-09-16 17:01:40
+updated: 2025-10-20 20:18:30
 excerpt: 👻 [Find the treasure inside the mansion.](/posts/haunted-heir)
 categories: renpy horror game
-image: https://raw.githubusercontent.com/remarkablegames/haunted-heir/master/game/gui/window_icon.webp
+image: https://remarkablegames.org/haunted-heir/web-presplash.jpg
 ---
 
 👻 Find the treasure inside the mansion.
@@ -66,3 +67,7 @@ Check out our game on [GitHub](https://github.com/remarkablegames/haunted-heir) 
 - [Running Water Gentle Sound](https://pixabay.com/sound-effects/running-water-gentle-sound-185148/)
 - [VOiD1 Gaming](https://void1gaming.itch.io/free-horror-music-pack)
 - [box crash](https://pixabay.com/sound-effects/box-crash-106687/)
+
+### Voice
+
+- [David Wamala](https://davidwamalava.carrd.co/)
