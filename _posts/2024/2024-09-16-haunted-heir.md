@@ -2,13 +2,13 @@
 layout: post
 title: Haunted Heir
 date: 2024-09-16 17:01:40
-updated: 2025-10-20 20:18:30
+updated: 2025-10-25 16:57:00
 excerpt: 👻 [Find the treasure inside the mansion.](/posts/haunted-heir)
 categories: renpy horror game
 image: https://remarkablegames.org/haunted-heir/web-presplash.jpg
 ---
 
-👻 Find the treasure inside the mansion.
+🏠 You receive an inheritance letter from a fallen house. As you arrive and meet the Lord, you realize something spooky is going on...
 
 <iframe src="https://remarkablegames.org/haunted-heir/" frameBorder="0" width="690" height="388" style="display: block; margin: 0 auto;"></iframe>
 
@@ -16,8 +16,8 @@ image: https://remarkablegames.org/haunted-heir/web-presplash.jpg
 
 Play the game on:
 
-- [remarkablegames](https://remarkablegames.org/haunted-heir)
 - [itch.io](https://remarkablegames.itch.io/haunted-heir)
+- [remarkablegames](https://remarkablegames.org/haunted-heir)
 
 Or download:
 
@@ -42,9 +42,9 @@ We added the following game mechanics:
 
 We prototyped most of our features in [`remarkablegames/renpy-examples`](https://github.com/remarkablegames/renpy-examples).
 
-We submitted our first version to [Brackeys Game Jam 2024.2](https://itch.io/jam/brackeys-12) to get feedback.
+We submitted the first version to [Brackeys Game Jam 2024.2](https://itch.io/jam/brackeys-12) to get feedback.
 
-Check out our game on [GitHub](https://github.com/remarkablegames/haunted-heir) and let us know what you think!
+Big shoutout to [David Wamala](https://davidwamalava.carrd.co/) for voicing the Lord!
 
 ## Credits
 
@@ -59,15 +59,19 @@ Check out our game on [GitHub](https://github.com/remarkablegames/haunted-heir) 
 
 ### Audio
 
-- [Door Creek 02](https://pixabay.com/sound-effects/door-creak-02-79920/)
-- [Ghost Whispers](https://pixabay.com/sound-effects/ghost-whispers-6030/)
 - [Kenney Interface Sounds](https://kenney.nl/assets/interface-sounds)
-- [Main Door Opening-Closing](https://pixabay.com/sound-effects/main-door-opening-closing-38280/)
-- [Mortice Door Lock being locked and unlocked](https://pixabay.com/sound-effects/mortice-door-lock-being-locked-and-unlocked-95884/)
-- [Night Ambience](https://pixabay.com/sound-effects/night-ambience-17064/)
-- [Running Water Gentle Sound](https://pixabay.com/sound-effects/running-water-gentle-sound-185148/)
-- [VOiD1 Gaming](https://void1gaming.itch.io/free-horror-music-pack)
-- [box crash](https://pixabay.com/sound-effects/box-crash-106687/)
+- [Text/Dialogue Bleeps Pack](https://dmochas-assets.itch.io/dmochas-bleeps-pack)
+- Pixabay
+  - [Birds chirping 04](https://pixabay.com/sound-effects/birds-chirping-04-6771/)
+  - [Cash Register Purchase](https://pixabay.com/sound-effects/cash-register-purchase-87313/)
+  - [Door Creek 02](https://pixabay.com/sound-effects/door-creak-02-79920/)
+  - [Ghost Whispers](https://pixabay.com/sound-effects/ghost-whispers-6030/)
+  - [Main Door Opening-Closing](https://pixabay.com/sound-effects/main-door-opening-closing-38280/)
+  - [Mortice Door Lock being locked and unlocked](https://pixabay.com/sound-effects/mortice-door-lock-being-locked-and-unlocked-95884/)
+  - [Night Ambience](https://pixabay.com/sound-effects/night-ambience-17064/)
+  - [Paper turn](https://pixabay.com/sound-effects/paper-turn-40077/)
+  - [Running Water Gentle Sound](https://pixabay.com/sound-effects/running-water-gentle-sound-185148/)
+  - [box crash](https://pixabay.com/sound-effects/box-crash-106687/)
 
 ### Voice
 
