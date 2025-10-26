@@ -11,7 +11,7 @@ This post goes over how to create a timed slider minigame in [Ren'Py](https://ww
 
 ## Class
 
-Create a Python class for the slider:
+Create the Python class for the slider:
 
 ```py
 init python:
@@ -71,7 +71,7 @@ _Optional:_ If you want the target to be at the center:
 
 ## Screen
 
-Create a screen for the slider:
+Create the screen for the slider:
 
 ```py
 screen slider():
