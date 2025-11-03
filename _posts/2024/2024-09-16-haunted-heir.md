@@ -75,4 +75,5 @@ Big shoutout to [David Wamala](https://davidwamalava.carrd.co/) for voicing the 
 
 ### Voice
 
-- [David Wamala](https://davidwamalava.carrd.co/)
+- [David Wamala](https://davidwamalava.carrd.co/) (as the Lord)
+- [Rico Hatton](https://www.voiceofjessricohatton.com/) (as the Ghost)
