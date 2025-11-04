@@ -68,7 +68,6 @@ Here's a list of free social/multiplayer/group games to play with your friends:
 - [Poker](https://lipoker.io/)
 - [Set](https://setwithfriends.com/)
 - [Dominion](https://dominion.games/)
-- [Crosswords](https://downforacross.com/)
 - [Fishbowl](https://fishbowl-game.com/)
 - [One Night Ultimate Werewolf](https://netgames.io/games/onu-werewolf/)
 - [draw battle!](https://drawbattle.io/)
