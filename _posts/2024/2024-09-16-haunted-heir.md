@@ -2,7 +2,7 @@
 layout: post
 title: Haunted Heir
 date: 2024-09-16 17:01:40
-updated: 2025-10-25 16:57:00
+updated: 2025-11-05 22:20:35
 excerpt: 👻 [Find the treasure inside the mansion.](/posts/haunted-heir)
 categories: renpy horror game
 image: https://remarkablegames.org/haunted-heir/web-presplash.jpg
@@ -14,7 +14,7 @@ image: https://remarkablegames.org/haunted-heir/web-presplash.jpg
 
 ## Play
 
-Play the game on:
+Play the game:
 
 - [itch.io](https://remarkablegames.itch.io/haunted-heir)
 - [remarkablegames](https://remarkablegames.org/haunted-heir)
@@ -24,6 +24,8 @@ Or download:
 - [Windows](https://github.com/remarkablegames/haunted-heir/releases/latest/download/win.zip)
 - [Mac](https://github.com/remarkablegames/haunted-heir/releases/latest/download/mac.zip)
 - [Linux](https://github.com/remarkablegames/haunted-heir/releases/latest/download/pc.zip)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kdZLXzgPbT8?si=HXVtXKB-PneUWo2-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Background
 
@@ -43,8 +45,6 @@ We added the following game mechanics:
 We prototyped most of our features in [`remarkablegames/renpy-examples`](https://github.com/remarkablegames/renpy-examples).
 
 We submitted the first version to [Brackeys Game Jam 2024.2](https://itch.io/jam/brackeys-12) to get feedback.
-
-Big shoutout to [David Wamala](https://davidwamalava.carrd.co/) for voicing the Lord!
 
 ## Credits
 
