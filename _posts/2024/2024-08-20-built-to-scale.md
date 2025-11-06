@@ -13,7 +13,7 @@ image: https://raw.githubusercontent.com/remarkablegames/built-to-scale/master/d
 
 ## Play
 
-Play the game on:
+Play the game:
 
 - [remarkablegames](https://remarkablegames.org/built-to-scale)
 - [itch.io](https://remarkablegames.itch.io/built-to-scale)

@@ -13,7 +13,7 @@ image: https://remarkablegames.org/room-crawler/web-presplash.jpg
 
 ## Play
 
-Play the game on:
+Play the game:
 
 - [remarkablegames](https://remarkablegames.org/room-crawler)
 - [itch.io](https://remarkablegames.itch.io/room-crawler)

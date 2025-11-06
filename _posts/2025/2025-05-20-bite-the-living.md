@@ -13,7 +13,7 @@ image: https://remarkablegames.org/bite-the-living/logo.png
 
 ## Play
 
-Play the game on:
+Play the game:
 
 - [remarkablegames](https://remarkablegames.org/bite-the-living)
 - [itch.io](https://remarkablegames.itch.io/bite-the-living)

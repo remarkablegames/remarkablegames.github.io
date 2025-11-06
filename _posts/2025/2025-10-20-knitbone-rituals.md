@@ -18,7 +18,7 @@ image: https://remarkablegames.org/knitbone-rituals/web-presplash.webp
 
 ## Play
 
-Play the game on:
+Play the game:
 
 - [remarkablegames](https://remarkablegames.org/knitbone-rituals)
 - [itch.io](https://remarkablegames.itch.io/knitbone-rituals)

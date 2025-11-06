@@ -13,7 +13,7 @@ image: https://remarkablegames.org/secret-identity/cover.png
 
 ## Play
 
-Play the game on:
+Play the game:
 
 - [remarkablegames](https://remarkablegames.org/secret-identity)
 - [itch.io](https://remarkablegames.itch.io/secret-identity)

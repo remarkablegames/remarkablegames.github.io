@@ -13,7 +13,7 @@ image: https://remarkablegames.org/rhythmism/screenshots/sinbad1.png
 
 ## Play
 
-Play the game on:
+Play the game:
 
 - [remarkablegames](https://remarkablegames.org/rhythmism/)
 - [Itch.io](https://remarkablegames.itch.io/rhythmism)

@@ -14,7 +14,7 @@ image: https://remarkablegames.org/water-pipe/screenshots/water_pipe.png
 
 ## Play
 
-Play the game on:
+Play the game:
 
 - [remarkablegames](https://remarkablegames.org/water-pipe/)
 - [itch.io](https://remarkablegames.itch.io/water-pipe)

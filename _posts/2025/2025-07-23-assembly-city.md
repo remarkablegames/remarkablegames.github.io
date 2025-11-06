@@ -13,7 +13,7 @@ image: https://remarkablegames.org/assembly-city/web-presplash.webp
 
 ## Play
 
-Play the game on:
+Play the game:
 
 - [remarkablegames](https://remarkablegames.org/assembly-city)
 - [itch.io](https://remarkablegames.itch.io/assembly-city)

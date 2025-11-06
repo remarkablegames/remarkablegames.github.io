@@ -13,7 +13,7 @@ image: https://remarkablegames.org/bubble-gun/images/cover.png
 
 ## Play
 
-Play the game on:
+Play the game:
 
 - [remarkablegames](https://remarkablegames.org/bubble-gun)
 - [itch.io](https://remarkablegames.itch.io/bubble-gun)

@@ -13,7 +13,7 @@ image: https://remarkablegames.org/code-arcade/screenshots/level_0.png
 
 ## Play
 
-Play the game on:
+Play the game:
 
 - [remarkablegames](https://remarkablegames.org/code-arcade/)
 - [itch.io](https://remarkablegames.itch.io/code-arcade)

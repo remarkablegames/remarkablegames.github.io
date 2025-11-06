@@ -13,7 +13,7 @@ image: https://raw.githubusercontent.com/remarkablegames/just-jokes/master/publi
 
 ## Play
 
-Play the game on:
+Play the game:
 
 - [remarkablegames](https://remarkablegames.org/just-jokes/)
 

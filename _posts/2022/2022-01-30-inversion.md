@@ -14,7 +14,7 @@ image: https://raw.githubusercontent.com/remarkablegames/inversion/master/public
 
 ## Play
 
-Play the game on:
+Play the game:
 
 - [remarkablegames](https://remarkablegames.org/inversion/)
 - [Newgrounds](https://www.newgrounds.com/portal/view/831514)

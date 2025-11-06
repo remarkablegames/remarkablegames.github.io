@@ -13,7 +13,7 @@ image: https://remarkablegames.org/lights-out/screenshots/screenshot3.png
 
 ## Play
 
-Play the game on:
+Play the game:
 
 - [remarkablegames](https://remarkablegames.org/lights-out/)
 - [Itch.io](https://remarkablegames.itch.io/lights-out)
