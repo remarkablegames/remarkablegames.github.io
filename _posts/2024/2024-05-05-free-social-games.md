@@ -136,7 +136,6 @@ Here's a list of free social/multiplayer/group games to play with your friends:
 
 ## Survival
 
-- [1v1.LOL - Building Simulator, Battle Royale & Shooting Game](https://1v1.lol/)
 - [Curve Fever](https://curvefever.pro/)
 - [Death by AI](https://deathbyai.gg/)
 
