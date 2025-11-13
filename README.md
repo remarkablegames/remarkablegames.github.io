@@ -11,7 +11,7 @@ Join the [Discord](https://b.remarkabl.org/remarkablegames-discord)!
 
 ## Prerequisites
 
-[Ruby](https://www.ruby-lang.org/en/downloads/) 3.1.2:
+[Ruby](https://www.ruby-lang.org/en/downloads/):
 
 ```sh
 ruby --version
@@ -31,7 +31,12 @@ rbenv init
 Reload or open a new shell:
 
 ```sh
-curl -fsSL https://github.com/rbenv/rbenv-installer/raw/master/bin/rbenv-doctor | bash
+source ~/.zshrc
+```
+
+Install Ruby:
+
+```sh
 rbenv install
 rbenv local
 ```
@@ -106,6 +111,16 @@ Use [HTMLProofer](https://github.com/gjtorikian/html-proofer) to validate HTML o
 bundle exec jekyll build
 bundle exec htmlproofer _site
 ```
+
+## Support
+
+- [GitHub Sponsors](https://b.remarkabl.org/github-sponsors)
+- [Patreon](https://b.remarkabl.org/patreon)
+- [Ko-fi](https://b.remarkabl.org/ko-fi)
+- [Liberapay](https://b.remarkabl.org/liberapay)
+- [Buy Me a Coffee](https://buymeacoffee.com/remarkablemark)
+- [thanks.dev](https://thanks.dev/u/gh/remarkablemark)
+- [Teepsring](https://b.remarkabl.org/teespring)
 
 ## License
 
