@@ -1,9 +1,9 @@
 # [remarkablegames.org](https://b.remarkabl.org/games)
 
 [![build](https://github.com/remarkablegames/remarkablegames.github.io/actions/workflows/build.yml/badge.svg)](https://github.com/remarkablegames/remarkablegames.github.io/actions/workflows/build.yml)
-![GitHub last commit](https://badgen.net/github/last-commit/remarkablegames/remarkablegames.github.io)
+![GitHub last commit](https://img.shields.io/github/last-commit/remarkablegames/remarkablegames.github.io)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/remarkablegames/remarkablegames.github.io)
-[![Discord](https://badgen.net/discord/online-members/rQjGyJ8Rp6?cache=300&icon=discord)](https://b.remarkabl.org/remarkablegames-discord)
+[![Discord](https://img.shields.io/discord/1251628400670539888?logo=discord&logoColor=white&color=%237289da&cacheSeconds=300)](https://b.remarkabl.org/remarkablegames-discord)
 
 [Site](https://b.remarkabl.org/games) of [@remarkablegames](https://github.com/remarkablegames). Built with [Jekyll](https://jekyllrb.com) and hosted on [GitHub Pages](https://pages.github.com).
 
