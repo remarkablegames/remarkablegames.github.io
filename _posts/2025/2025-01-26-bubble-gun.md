@@ -7,7 +7,7 @@ categories: web kaplay ggj arcade survival
 image: https://remarkablegames.org/bubble-gun/images/cover.png
 ---
 
-💦 🔫 <kbd>Bubble Gun</kbd> is a top-down survival game where you shoot bubbles at enemies.
+💦 🔫 **Bubble Gun** is a top-down survival game where you shoot bubbles at enemies.
 
 <iframe src="https://remarkablegames.org/bubble-gun/" frameBorder="0" width="700" height="800" style="display: block; margin: 0 auto;"></iframe>
 
@@ -40,7 +40,7 @@ I collaborated with KitBash, who did the art and composition of this game. He ha
 
 We originally wanted to make it a two-player game, but we stuck with single-player to minimize scope.
 
-I chose [KAPLAY.js](https://kaplayjs.com/) as the game engine since I found it fast to prototype ideas. I bootstraped the game from [`kaplay-template`](https://github.com/remarkablegames/kaplay-template).
+I chose [KAPLAY](https://kaplayjs.com/) as the game engine since I found it fast to prototype ideas. I bootstrapped the game from [kaplay-template](https://github.com/remarkablegames/kaplay-template).
 
 We came up with five enemies:
 

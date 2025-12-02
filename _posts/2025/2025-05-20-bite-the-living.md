@@ -7,7 +7,7 @@ categories: web kaplay real-time-strategy pixel-art 2d
 image: https://remarkablegames.org/bite-the-living/logo.png
 ---
 
-🧟 <kbd>Bite the Living</kbd> is a real-time-strategy game where you control zombies and attack humans.
+🧟 **Bite the Living** is a real-time-strategy game where you control zombies and attack humans.
 
 <iframe src="https://remarkablegames.org/bite-the-living/" frameBorder="0" width="700" height="800" style="display: block; margin: 0 auto;"></iframe>
 
@@ -15,8 +15,8 @@ image: https://remarkablegames.org/bite-the-living/logo.png
 
 Play the game:
 
-- [remarkablegames](https://remarkablegames.org/bite-the-living)
 - [itch.io](https://remarkablegames.itch.io/bite-the-living)
+- [remarkablegames](https://remarkablegames.org/bite-the-living)
 
 ## How to Play
 
@@ -31,7 +31,7 @@ The game was made for [Pixel Game Jam 2025](https://itch.io/jam/-pixel-game-jam-
 
 We ideated on [Excalidraw](https://excalidraw.com/#json=eeiKPEwkUf2AauUocUiSH,5PfjhMuUElgs1RlALq52Dw) and decided to go with a reverse zombie game where you control zombies and attack humans (similar to [Infectonator](https://www.togeproductions.com/project/infectonator/)).
 
-We chose [KAPLAY.js](https://kaplayjs.com/) as the game engine because prototyping is fast and it handles 2D pixel art. The game was bootstrapped from [`kaplay-template`](https://github.com/remarkablegames/kaplay-template).
+We chose [KAPLAY](https://kaplayjs.com/) as the game engine because prototyping is fast and it handles 2D pixel art. The game was bootstrapped from [kaplay-template](https://github.com/remarkablegames/kaplay-template).
 
 We used the assets:
 
