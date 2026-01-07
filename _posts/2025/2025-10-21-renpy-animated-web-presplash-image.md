@@ -47,7 +47,7 @@ After building for the web using the Ren'Py launcher, change to the web director
 cd my-renpy-game-web/
 ```
 
-Copy `web-presplash.webp` to the web directory and replace `web-presplash.jpg` in all files:
+If you're using Ren'Py <[8.5.0](https://www.renpy.org/release/8.5.0), copy `web-presplash.webp` to the web directory and replace `web-presplash.jpg` in all files:
 
 ```sh
 rm web-presplash.jpg
