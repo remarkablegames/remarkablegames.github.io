@@ -24,23 +24,23 @@ layout: default
   </div>
   <hr />
   <article>{{ content }}</article>
-  {% if site.disqus_shortname %}
-  <div id="disqus_thread"></div>
-  <script>
-    window.disqus_config = function () {
-      this.page.url = '{{ page.url | prepend: site.url }}';
-      this.page.identifier =
-        '{{ page.id | remove_first: "/posts/" | replace: "/", "-" }}';
-    };
-    (function (d, s) {
-      s = d.createElement('script');
-      s.src = 'https://{{ site.disqus_shortname }}.disqus.com/embed.js';
-      s.setAttribute('data-timestamp', +new Date());
-      s.async = 1;
-      (d.head || d.body).appendChild(s);
-    })(document);
-  </script>
-  {% endif %}
+  <script
+    src="https://giscus.app/client.js"
+    data-repo="remarkablegames/remarkablegames.github.io"
+    data-repo-id="MDEwOlJlcG9zaXRvcnkxMTkwMDc0MDE="
+    data-category="Comments"
+    data-category-id="DIC_kwDOBxfoqc4C254y"
+    data-mapping="pathname"
+    data-strict="1"
+    data-reactions-enabled="1"
+    data-emit-metadata="0"
+    data-input-position="top"
+    data-theme="preferred_color_scheme"
+    data-lang="en"
+    data-loading="lazy"
+    crossorigin="anonymous"
+    async
+  ></script>
 </main>
 {% comment %}
 
