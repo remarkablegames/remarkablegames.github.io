@@ -62,3 +62,11 @@ pre.highlight {
     }
   }
 }
+
+// remove margin-bottom for nested ul/ol inside ul/ol
+ul ul,
+ul ol,
+ol ul,
+ol ol {
+  margin-bottom: 0;
+}
