@@ -17,7 +17,7 @@ game.scale.pageAlignHorizontally = true;
 game.scale.pageAlignVertically = true;
 ```
 
-See [example](https://phaser.io/examples/v2/input/game-scale) and [docs](https://phaser.io/docs/2.6.2/Phaser.ScaleManager.html).
+See [docs](https://devdocs.io/phaser/phaser.scalemanager).
 
 ## Phaser 3
 
