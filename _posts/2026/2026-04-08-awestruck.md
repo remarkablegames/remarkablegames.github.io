@@ -2,6 +2,7 @@
 layout: post
 title: Awestruck
 date: 2026-04-08 20:40:50
+updated: 2026-04-09 21:30:15
 excerpt: 🎴 [Awestruck is a deckbuilding card game that synergizes words.](/posts/awestruck)
 categories: kaplay deckbuilder card game web 2d
 image: https://remarkablegames.org/awestruck/screenshot.png
@@ -28,9 +29,14 @@ Or download:
 
 ## How to Play
 
-- Click the cards to build a chain and click "Execute"
-- Keep an eye on your energy and health
-- Defeat the enemies on the floor
+- Cards
+  - The top-left number on the card is the cost, which decreases your energy
+  - A modifier card enhances the payload card (and modifiers can be stacked)
+  - The last card in the chain must be a payload for "Execute" to work
+- Stats
+  - Player stats can be found at the top-left of the screen
+  - Enemy stats can be found at the top-right of the screen
+- Defeat the enemy and don't let your health go below 0
 - Select rewards to upgrade your cards/stats
 
 ## Credits
