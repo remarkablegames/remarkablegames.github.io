@@ -75,5 +75,5 @@ We submitted the first version to [Brackeys Game Jam 2024.2](https://itch.io/jam
 
 ### Voice
 
-- [David Wamala](https://davidwamalava.carrd.co/) (as the Lord)
+- [David Wamala](https://davidwamala.com/) (as the Lord)
 - [Rico Hatton](https://www.voiceofjessricohatton.com/) (as the Ghost)
