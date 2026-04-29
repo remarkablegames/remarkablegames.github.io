@@ -37,13 +37,14 @@ The title plays on the Latin phrase _deus ex machina_—literally "god from the 
 
 ## How to Play
 
-- Left-click to place an arrow tile
+- Left-click to draw an arrow block
   - Left-click again to rotate it
   - Some levels limit the number of arrows you can place
-- Right-click to erase a tile
-- Some tiles are permanent
-- Avoid spikes
+- Right-click to erase a block
+- Some blocks are permanent
+- Avoid the spikes
 - Reach the orb to win
+- Press "R" to restart the level
 
 ## Credits
 
