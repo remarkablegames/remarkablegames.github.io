@@ -41,7 +41,7 @@ The title plays on the Latin phrase _deus ex machina_—literally "god from the 
   - Left-click again to rotate it
   - Some levels limit the number of arrows you can place
 - Right-click to erase a block
-- Some blocks are permanent
+  - Some blocks are permanent
 - Avoid the spikes
 - Reach the orb to win
 - Press "R" to restart the level
