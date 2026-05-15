@@ -2,13 +2,13 @@
 layout: post
 title: Phaser JSX
 date: 2024-01-08 23:08:01
-excerpt: Use [JSX](https://facebook.github.io/jsx/) in [Phaser](https://phaser.io/) with [`phaser-jsx`](https://github.com/remarkablegames/phaser-jsx).
+excerpt: Use [JSX](https://react.github.io/jsx/) in [Phaser](https://phaser.io/) with [`phaser-jsx`](https://github.com/remarkablegames/phaser-jsx).
 categories: phaser-jsx npm
 ---
 
 ## What
 
-[`phaser-jsx`](https://github.com/remarkablegames/phaser-jsx) allows you to use [JSX](https://facebook.github.io/jsx/) in [Phaser](https://phaser.io/).
+[`phaser-jsx`](https://github.com/remarkablegames/phaser-jsx) allows you to use [JSX](https://react.github.io/jsx/) in [Phaser](https://phaser.io/).
 
 ## Why
 
