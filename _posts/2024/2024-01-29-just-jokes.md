@@ -21,7 +21,7 @@ Play the game:
 
 The game was made for the [Global Game Jam 2024](https://globalgamejam.org/games/2024/just-jokes-1), in which the theme was `Make Me Laugh`.
 
-We originally created a [joke simulator](https://replit.com/@remarkablemark/joke-simulator) that was inspired by [Mad Libs](https://www.madlibs.com/), but realized that to make it feel more like a game, we needed to include party game elements similar to [Jackbox Games](https://www.jackboxgames.com/). As a result, we added a multiplayer component so players could rate each other's jokes.
+We originally created a joke simulator that was inspired by [Mad Libs](https://www.madlibs.com/), but realized that to make it feel more like a game, we needed to include party game elements similar to [Jackbox Games](https://www.jackboxgames.com/). As a result, we added a multiplayer component so players could rate each other's jokes.
 
 The game was created from [`remarkablemark/party-game-template`](https://github.com/remarkablegames/party-game-template) and we used [DriftDB](https://github.com/jamsocket/driftdb), [MUI](https://mui.com/), [React](https://react.dev/), and [Vite](https://vitejs.dev/). We decided not to use a game engine since it's mostly event-driven actions in the UI. To make it feel more like a game, we added background art, stylized the typography, and played sounds and music.
 

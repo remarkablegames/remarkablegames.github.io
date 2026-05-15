@@ -10,7 +10,7 @@ image: https://remarkablegames.org/asteroids/screenshot.png
 
 ## Game
 
-[Asteroids](https://remarkablegames.org/asteroids/) clone from [p5.play examples](https://b.remarkabl.org/2YS6LZz). See [Replit](https://replit.com/@remarkablemark/asteroids) and [repository](https://github.com/remarkablegames/asteroids).
+[Asteroids](https://remarkablegames.org/asteroids/) clone from [p5.play examples](https://b.remarkabl.org/2YS6LZz). See the [repository](https://github.com/remarkablegames/asteroids).
 
 <iframe src="https://remarkablegames.org/asteroids/" frameBorder="0" width="100%" height="600px"></iframe>
 
@@ -62,7 +62,7 @@ function setup() {
   ship.addAnimation(
     'thrust',
     'assets/asteroids_ship0002.png',
-    'assets/asteroids_ship0007.png'
+    'assets/asteroids_ship0007.png',
   );
 }
 ```
@@ -317,5 +317,3 @@ ship.debug = true;
 ```
 
 This goes over how to make the asteroids game from p5.play. You can make further improvements like adding a title and game over screen and improving the physics and mechanics.
-
-Check out the [Replit](https://b.remarkabl.org/36ONQU6) from the livestream for the full code.

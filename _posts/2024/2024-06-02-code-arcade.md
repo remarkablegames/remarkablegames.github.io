@@ -28,10 +28,10 @@ I wanted to create a game that could teach programming fundamentals—something 
 I chose [Kaboom.js](https://kaboomjs.com/) as the game engine because:
 
 1. the [API](https://kaboomjs.com/#add) is easy-to-use and learn
-2. the library has a [flexible component system](https://blog.replit.com/kaboom)
+2. the library has a flexible component system
 3. the functions are injected into the global namespace
 
-I created a prototype in [Replit](https://replit.com/@remarkablemark/Code-Arcade) where I rendered a [CodeMirror](https://codemirror.net/) editor next to a game canvas. I added a button to "Run" the code from the editor.
+I created a prototype where I rendered a [CodeMirror](https://codemirror.net/) editor next to a game canvas. I added a button to "Run" the code from the editor.
 
 But because the game keeps rendering in the same `window`, the game starts lagging after a few playthroughs due to memory leaks.
 

@@ -24,7 +24,7 @@ Play the game:
 
 This game was made for **Pixel Game Jam 2024**, which the theme was `AQUA`.
 
-I choose the [Kaboom.js](https://kaboomjs.com/) framework and created the proof-of-concept in [Replit](https://replit.com/@remarkablemark/Water-Pipe).
+I choose the [Kaboom.js](https://kaboomjs.com/) framework and created the proof-of-concept.
 
 I then moved the code to [GitHub](https://github.com/remarkablegames/water-pipe) and added more features, sounds, and polish.
 
