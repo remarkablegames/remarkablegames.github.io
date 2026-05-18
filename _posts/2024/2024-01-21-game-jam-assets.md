@@ -121,7 +121,7 @@ Please **check the license** before using any assets in your project and **credi
 - [MagicaVoxel](https://ephtracy.github.io/) (Voxel Art)
 - [sfxr](https://www.drpetter.se/project_sfxr.html) (SFX)
 - [Chiptone](https://sfbgames.itch.io/chiptone) (SFX)
-- [Bosca Ceoil](https://boscaceoil.net/) (Music)
+- [Bosca Ceoil Blue](https://yurisizov.itch.io/boscaceoil-blue) (Music)
 - [BeepBox](https://www.beepbox.co/) (Music)
 - [Lospec](https://lospec.com/palette-list) (Palettes)
 - [Tiny Tools](https://tinytools.directory/) (More!)
