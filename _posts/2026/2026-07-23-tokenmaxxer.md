@@ -17,6 +17,7 @@ Play in your browser:
 
 - [itch.io](https://remarkablegames.itch.io/tokenmaxxer)
 - [Wavedash](https://wavedash.com/games/tokenmaxxer)
+- [Newgrounds](https://www.newgrounds.com/portal/view/1044486)
 - [remarkablegames](https://remarkablegames.org/tokenmaxxer/)
 
 Download for desktop:
