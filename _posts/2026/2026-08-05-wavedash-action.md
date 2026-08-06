@@ -37,7 +37,7 @@ jobs:
 
 The `WAVEDASH_TOKEN` is your Wavedash API key. [Generate one](https://wavedash.com/dev-portal/keys) and add it to your repository's **Settings** > **Secrets and variables** > **Actions**.
 
-If you don't already have a `wavedash.toml`, the action will create one for you and inject the Wavedash SDK into your entrypoint HTML as long as you provide `game-id`, `upload-dir`, and `entrypoint`. The generated file looks like:
+If you don't already have a `wavedash.toml`, the action will create one for you and [inject the Wavedash SDK into your entrypoint HTML]({% post_url 2026/2026-08-06-wavedash-init-script %}) as long as you provide `game-id`, `upload-dir`, and `entrypoint`. The generated file looks like:
 
 ```toml
 # wavedash.toml
