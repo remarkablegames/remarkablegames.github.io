@@ -2,20 +2,22 @@
 layout: post
 title: Room Crawler
 date: 2025-04-26 13:24:57
-excerpt: 🚪 [Room Crawler is a roguelike RPG turn-based combat.](/posts/room-crawler)
+updated: 2026-08-06 13:15:49
+excerpt: 🚪 [Room Crawler is a roguelike RPG with turn-based combat.](/posts/room-crawler)
 categories: renpy rpg roguelike python
 image: https://remarkablegames.org/room-crawler/web-presplash.jpg
 ---
 
-🚪 <kbd>Room Crawler</kbd> is a roguelike RPG turn-based combat.
+🚪 <kbd>Room Crawler</kbd> is a roguelike RPG with turn-based combat.
 
-<iframe src="https://remarkablegames.org/room-crawler/" frameBorder="0" width="690" height="388" style="display: block; margin: 0 auto;"></iframe>
+<iframe src="https://remarkablegames.org/room-crawler/" frameBorder="0" width="100%" height="388" style="display: block; margin: 0 auto;"></iframe>
 
 ## Play
 
-Play the game:
+Play in browser:
 
 - [remarkablegames](https://remarkablegames.org/room-crawler)
+- [Wavedash](https://wavedash.com/games/room-crawler)
 - [itch.io](https://remarkablegames.itch.io/room-crawler)
 
 Or download:
@@ -23,6 +25,15 @@ Or download:
 - [Windows](https://github.com/remarkablegames/room-crawler/releases/latest/download/win.zip)
 - [Mac](https://github.com/remarkablegames/room-crawler/releases/latest/download/mac.zip)
 - [Linux](https://github.com/remarkablegames/room-crawler/releases/latest/download/pc.zip)
+
+## Features
+
+- **Roguelike turn-based combat** — fight enemies in sequential encounters using energy-based actions.
+- **Exploration** — move between rooms and the hall, each with randomized atmospheric descriptions.
+- **Progression** — enemies and difficulty scale as you survive more encounters.
+- **Skills** — unlock and upgrade abilities that change how you fight, heal, and manage energy.
+- **Economy** — earn money from combat and exploration, then spend it in the shop or invest it for rewards.
+- **Replayability** — randomized loot, encounters, and rewards make each run different.
 
 ## Background
 
