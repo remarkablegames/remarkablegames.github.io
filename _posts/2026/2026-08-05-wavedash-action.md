@@ -2,6 +2,7 @@
 layout: post
 title: Upload to Wavedash with GitHub Actions
 date: 2026-08-05 22:00:31
+updated: 2026-08-07 15:05:31
 excerpt: How to upload and publish a web game to Wavedash with `remarkablegames/wavedash-action` and GitHub Actions.
 categories: wavedash github actions ci-cd deploy web game
 ---
@@ -28,7 +29,7 @@ jobs:
       # Build your web game...
 
       - name: Upload to Wavedash
-        uses: remarkablemark/wavedash-action@v1
+        uses: remarkablegames/wavedash-action@v1
         with:
           token: ${{ secrets.WAVEDASH_TOKEN }}
 ```
@@ -72,7 +73,7 @@ wavedash:
     # Build your web game...
 
     - name: Upload to Wavedash
-      uses: remarkablemark/wavedash-action@v1
+      uses: remarkablegames/wavedash-action@v1
       with:
         token: ${{ secrets.WAVEDASH_TOKEN }}
         game-id: YOUR_GAME_ID_HERE
@@ -90,7 +91,7 @@ To publish the build immediately, add `publish: true`:
 ```diff
 -   - name: Upload to Wavedash
 +   - name: Upload and publish to Wavedash
-      uses: remarkablemark/wavedash-action@v1
+      uses: remarkablegames/wavedash-action@v1
       with:
         token: ${{ secrets.WAVEDASH_TOKEN }}
         game-id: YOUR_GAME_ID_HERE
