@@ -2,23 +2,34 @@
 layout: post
 title: Water Pipe
 date: 2024-05-19 13:48:46
-updated: 2024-05-19 18:12:18
-excerpt: 🚰 [Water Pipe](/posts/water-pipe) is a puzzle where you connect all the pipes.
+updated: 2026-08-07 16:02:50
+excerpt: 🚰 [Water Pipe](/posts/water-pipe) is a casual pipe-rotation puzzle game. Click or tap the pipes to rotate them and connect every piece so the water can flow.
 categories: kaboom puzzle game
-image: https://remarkablegames.org/water-pipe/screenshots/water_pipe.png
+image: https://remarkablegames.org/water-pipe/screenshots/water_pipe.jpeg
 ---
 
-🚰 <kbd>Water Pipe</kbd> is a puzzle where you connect all the pipes:
+🚰 **Water Pipe** is a casual pipe-rotation puzzle game. Click or tap the pipes to rotate them and connect every piece so the water can flow.
 
 <iframe src="https://remarkablegames.org/water-pipe/" frameBorder="0" width="100%" height="700" style="display: block; margin: 0 auto;"></iframe>
 
 ## Play
 
-Play the game:
+Play in browser:
 
-- [remarkablegames](https://remarkablegames.org/water-pipe/)
 - [itch.io](https://remarkablegames.itch.io/water-pipe)
+- [Wavedash](https://wavedash.com/games/water-pipe)
 - [Newgrounds](https://www.newgrounds.com/portal/view/930938)
+- [remarkablegames](https://remarkablegames.org/water-pipe/)
+
+## Features
+
+- **11 handcrafted levels** - each with a unique pipe layout and scale.
+- **One-click rotation** - tap or click a pipe to rotate it into place.
+- **Randomized starting orientations** - every level is shuffled for a fresh challenge.
+- **Automatic solution check** - when the path is complete, the water flows and the next level loads.
+- **Ambient audio** - looping ocean waves with splash and click sound effects.
+- **Random background colors** - a new brick wall color for every level.
+- **Responsive scaling** - the puzzle board scales for desktop and mobile screens.
 
 ## Background
 
