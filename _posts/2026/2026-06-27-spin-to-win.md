@@ -2,12 +2,13 @@
 layout: post
 title: Spin to Win
 date: 2026-06-27 16:47:49
-excerpt: 🎡 [Spin to Win is a luck-based strategy game where every spin counts. Earn points, unlock upgrades, add segments, and remove penalties as you build your ultimate wheel. Can you reach the target score before luck runs out?](/posts/spin-to-win)
-categories: kaplay strategy game web 2d singleplayer
+updated: 2026-08-08 20:01:40
+excerpt: 🎡 [Spin to Win is a luck-based strategy game where every spin counts. Earn points, unlock upgrades, add segments, and remove penalties as you build your ultimate wheel. Can you reach the target score before your luck runs out?](/posts/spin-to-win)
+categories: kaplay strategy game web 2d singleplayer roguelike
 image: https://remarkablegames.org/spin-to-win/favicon.png
 ---
 
-🎡 Spin. Upgrade. Win.
+🎡 Spin to Win is a luck-based strategy game where every spin counts. Earn points, unlock upgrades, add segments, and remove penalties as you build your ultimate wheel. Can you reach the target score before your luck runs out?
 
 <iframe frameborder="0" src="https://itch.io/embed/4714591" width="552" height="167"><a href="https://remarkablegames.itch.io/spin-to-win">Spin to Win by remarkablegames</a></iframe>
 
@@ -16,6 +17,7 @@ image: https://remarkablegames.org/spin-to-win/favicon.png
 Play in your browser:
 
 - [itch.io](https://remarkablegames.itch.io/spin-to-win)
+- [Wavedash](https://wavedash.com/games/spin-to-win)
 - [remarkablegames](https://remarkablegames.org/spin-to-win/)
 
 Download for desktop:
@@ -24,9 +26,13 @@ Download for desktop:
 - [macOS](https://github.com/remarkablegames/spin-to-win/releases/latest/download/macos.zip)
 - [Linux](https://github.com/remarkablegames/spin-to-win/releases/latest/download/linux.zip)
 
-## Description
+## Features
 
-🎡 **Spin to Win** is a luck-based strategy game where every spin counts. Earn points, unlock upgrades, add segments, and remove penalties as you build your ultimate wheel. Can you reach the target score before luck runs out?
+- **Spin the wheel** — each round gives you a limited number of spins. Land on score, money, multiplier, or "End Round" segments to shape your run.
+- **Build your wheel** — between rounds, visit the shop to upgrade segments, clone them, delete unwanted ones, or add and fill blank segments.
+- **Artifacts** — collect active and passive artifacts that let you skip negatives, extend or stop the spin, boost payouts, earn passive income, and more.
+- **Progress through levels** — reach the target score across 10 levels with escalating difficulty.
+- **Strategic choices** — decide when to keep spinning, end the round early, or spend money on upgrades and rerolls.
 
 ## Credits
 
