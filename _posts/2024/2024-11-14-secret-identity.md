@@ -2,12 +2,12 @@
 layout: post
 title: Secret Identity
 date: 2024-11-14 19:42:06
-excerpt: 🦸 [AI chatbot game where you guess a superhero's secret identity.](/posts/secret-identity)
+excerpt: 🦸 [Secret Identity](/posts/secret-identity) is an AI chatbot game where you guess the superhero's identity.
 categories: web react puzzle ai chat
 image: https://remarkablegames.org/secret-identity/cover.png
 ---
 
-🦸 <kbd>Secret Identity</kbd> is an AI chatbot game where you guess a superhero's secret identity.
+🦸 <kbd>Secret Identity</kbd> is an AI chatbot game where you guess the superhero's identity.
 
 <iframe src="https://remarkablegames.org/secret-identity/" frameBorder="0" width="375" height="667" style="display: block; margin: 0 auto;"></iframe>
 

@@ -2,7 +2,7 @@
 layout: post
 title: Weather Shelter
 date: 2026-06-07 20:01:57
-excerpt: ☂️ [Build shelters before the storm arrives. Can your creations weather the storm?](/posts/weather-shelter)
+excerpt: ☂️ [Weather Shelter](/posts/weather-shelter). Build shelters before the storm arrives. Can your creations weather the storm?
 categories: phaser puzzle game web 2d singleplayer matterjs
 image: https://remarkablegames.org/weather-shelter/screenshots/cover.png
 ---

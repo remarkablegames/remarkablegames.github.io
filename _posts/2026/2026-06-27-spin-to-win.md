@@ -3,7 +3,7 @@ layout: post
 title: Spin to Win
 date: 2026-06-27 16:47:49
 updated: 2026-08-08 20:01:40
-excerpt: 🎡 [Spin to Win is a luck-based strategy game where every spin counts. Earn points, unlock upgrades, add segments, and remove penalties as you build your ultimate wheel. Can you reach the target score before your luck runs out?](/posts/spin-to-win)
+excerpt: 🎡 [Spin to Win](/posts/spin-to-win) is a luck-based strategy game where every spin counts.
 categories: kaplay strategy game web 2d singleplayer roguelike
 image: https://remarkablegames.org/spin-to-win/favicon.png
 ---

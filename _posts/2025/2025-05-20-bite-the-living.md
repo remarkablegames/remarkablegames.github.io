@@ -2,7 +2,7 @@
 layout: post
 title: Bite the Living
 date: 2025-05-20 19:02:52
-excerpt: 🧟 [Control zombies and attack humans!](/posts/bite-the-living)
+excerpt: 🧟 [Bite the Living.](/posts/bite-the-living) Control zombies and attack humans!
 categories: web kaplay real-time-strategy pixel-art 2d
 image: https://remarkablegames.org/bite-the-living/logo.png
 ---

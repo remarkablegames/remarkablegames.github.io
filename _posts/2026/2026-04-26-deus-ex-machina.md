@@ -2,7 +2,7 @@
 layout: post
 title: Deus Ex Machina
 date: 2026-04-26 16:44:56
-excerpt: 🔚 [Deus Ex Machina is a puzzle-platformer where you draw arrows to move the robot.](/posts/deus-ex-machina)
+excerpt: 🔚 [Deus Ex Machina](/posts/deus-ex-machina) is a puzzle-platformer where you draw arrows to move the robot.
 categories: phaser platformer puzzle game web 2d
 image: https://remarkablegames.org/deus-ex-machina/screenshots/splash.gif
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Tokenmaxxer
 date: 2026-07-23 13:01:04
-excerpt: 🏆 [Tokenmaxxer is an incremental game where you climb the corporate AI leaderboard—one token at a time.](/posts/tokenmaxxer)
+excerpt: 🏆 [Tokenmaxxer](/posts/tokenmaxxer) is an incremental game where you climb the corporate AI leaderboard—one token at a time.
 categories: react incremental clicker game web singleplayer ai game-jam
 image: https://remarkablegames.org/tokenmaxxer/cover.png
 ---

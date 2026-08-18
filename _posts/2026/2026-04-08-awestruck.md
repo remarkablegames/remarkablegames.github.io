@@ -3,7 +3,7 @@ layout: post
 title: Awestruck
 date: 2026-04-08 20:40:50
 updated: 2026-04-09 21:30:15
-excerpt: 🎴 [Awestruck is a deckbuilding card game that synergizes words.](/posts/awestruck)
+excerpt: 🎴 [Awestruck](/posts/awestruck) is a deckbuilding card game that synergizes words.
 categories: kaplay deckbuilder card game web 2d
 image: https://remarkablegames.org/awestruck/screenshot.png
 ---

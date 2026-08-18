@@ -2,7 +2,7 @@
 layout: post
 title: Cross-Link
 date: 2026-05-24 19:14:32
-excerpt: 🔗 [Cross-Link is a constellation puzzle where you connect stars and cross lines to clear the night sky.](/posts/cross-link)
+excerpt: 🔗 [Cross-Link](/posts/cross-link) is a constellation puzzle where you connect stars and cross lines to clear the night sky.
 categories: kaplay puzzle game web 2d singleplayer
 image: https://remarkablegames.org/cross-link/cover.png
 ---

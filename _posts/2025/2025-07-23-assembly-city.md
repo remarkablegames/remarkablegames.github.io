@@ -2,7 +2,7 @@
 layout: post
 title: Assembly City
 date: 2025-07-23 13:41:03
-excerpt: ⚖️ [Roguelike deck-building card game about facilitating a Citizens' Assembly.](/posts/assembly-city)
+excerpt: ⚖️ [Assembly City](/posts/assembly-city) is a roguelike deck-building card game about facilitating a Citizens' Assembly.
 categories: renpy deckbuilding card game python
 image: https://remarkablegames.org/assembly-city/web-presplash.webp
 ---

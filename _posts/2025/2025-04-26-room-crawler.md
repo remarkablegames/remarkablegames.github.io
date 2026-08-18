@@ -3,7 +3,7 @@ layout: post
 title: Room Crawler
 date: 2025-04-26 13:24:57
 updated: 2026-08-06 13:15:49
-excerpt: 🚪 [Room Crawler is a roguelike RPG with turn-based combat.](/posts/room-crawler)
+excerpt: 🚪 [Room Crawler](/posts/room-crawler) is a roguelike RPG with turn-based combat.
 categories: renpy rpg roguelike python
 image: https://remarkablegames.org/room-crawler/web-presplash.jpg
 ---

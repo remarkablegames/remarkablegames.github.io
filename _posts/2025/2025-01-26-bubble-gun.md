@@ -2,7 +2,7 @@
 layout: post
 title: Bubble Gun
 date: 2025-01-26 18:47:34
-excerpt: 💦 🔫 [Shoot bubbles at enemies!](/posts/bubble-gun)
+excerpt: 💦 🔫 [Bubble Gun](/posts/bubble-gun). Shoot bubbles at enemies!
 categories: web kaplay ggj arcade survival
 image: https://remarkablegames.org/bubble-gun/images/cover.png
 ---
