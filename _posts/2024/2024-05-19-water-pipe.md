@@ -5,7 +5,7 @@ date: 2024-05-19 13:48:46
 updated: 2026-08-07 16:02:50
 excerpt: 🚰 [Water Pipe](/posts/water-pipe) is a casual pipe-rotation puzzle game. Click or tap the pipes to rotate them and connect every piece so the water can flow.
 categories: kaboom puzzle game
-image: https://remarkablegames.org/water-pipe/screenshots/water_pipe.jpeg
+image: https://remarkablegames.org/water-pipe/cover_square.jpeg
 ---
 
 🚰 **Water Pipe** is a casual pipe-rotation puzzle game. Click or tap the pipes to rotate them and connect every piece so the water can flow.
