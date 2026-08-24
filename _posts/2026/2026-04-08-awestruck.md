@@ -14,12 +14,13 @@ image: https://remarkablegames.org/awestruck/screenshot.png
 
 ## Play
 
-Play the game:
+Play in the browser:
 
+- [Wavedash](https://wavedash.com/games/awestruck)
 - [itch.io](https://remarkablegames.itch.io/awestruck)
 - [remarkablegames](https://remarkablegames.org/awestruck/)
 
-Or download:
+Or download for desktop:
 
 - [Windows](https://github.com/remarkablegames/awestruck/releases/latest/download/windows.zip)
 - [Mac](https://github.com/remarkablegames/awestruck/releases/latest/download/macos.zip)
