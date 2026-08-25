@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Submitting my first game to Steam
-date: 2026-08-25 13:37:27
+title: Submitting my first Steam game
+date: 2026-08-25 14:45:20
 excerpt: Lessons from navigating Steamworks, preparing cross-platform builds, and getting my first game ready for release.
-categories: steam game
+categories: steam game release knitbone
 ---
 
-This month, I submitted my first game to Steam. The process was more involved than expected, so I want to document what I learned in case it helps other first-time developers.
+This month, I submitted my [first game to Steam](https://store.steampowered.com/app/5008480/KnitBone/). The process was more involved than expected, so I want to document what I learned in case it helps other first-time developers.
 
 ## Joining Steamworks
 
@@ -65,7 +65,9 @@ To fix missing depots, I went to **Apps & Packages > View Packages**, clicked ea
 
 I submitted both the **Store Presence** and **Game Build** for review and they were approved within a week (it could take up to 2 weeks).
 
-Then I made my store page public and marked it as **Coming Soon**. That lets customers see the page and add the game to their wishlist, and it also satisfies Steam's requirement of at least two weeks between when the store page becomes visible and the earliest possible release date.
+Then I published my store page as **Coming Soon**. That lets customers see the page and add the game to their wishlist, and it also satisfies Steam's requirement of at least two weeks between when the store page becomes visible and the earliest possible release date.
+
+![Steam publish](/assets/images/2026/2026-08-25-submitting-my-first-steam-game-publish.png)
 
 ## Steamworks checklist
 
