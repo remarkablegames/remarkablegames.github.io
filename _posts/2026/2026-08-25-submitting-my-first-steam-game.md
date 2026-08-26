@@ -2,11 +2,14 @@
 layout: post
 title: Submitting my first Steam game
 date: 2026-08-25 14:45:20
+updated: 2026-08-26 13:15:11
 excerpt: Lessons from navigating Steamworks, preparing cross-platform builds, and getting my first game ready for release.
 categories: steam game release knitbone
 ---
 
 This month, I submitted my [first game to Steam](https://store.steampowered.com/app/5008480/KnitBone/). The process was more involved than expected, so I want to document what I learned in case it helps other first-time developers.
+
+<iframe width="405" height="720" style="display: block; margin: 0 auto;" src="https://www.youtube.com/embed/chYGYjH2E2c" title="YouTube Short" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Joining Steamworks
 

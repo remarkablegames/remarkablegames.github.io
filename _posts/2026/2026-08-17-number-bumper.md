@@ -25,7 +25,7 @@ Or download for desktop:
 - [macOS](https://github.com/remarkablegames/number-bumper/releases/latest/download/macos.zip)
 - [Linux](https://github.com/remarkablegames/number-bumper/releases/latest/download/linux.zip)
 
-<iframe width="405" height="720" src="https://www.youtube.com/embed/PvzzkhROAdE" title="YouTube Short" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="405" height="720" style="display: block; margin: 0 auto;" src="https://www.youtube.com/embed/PvzzkhROAdE" title="YouTube Short" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## How to Play
 
