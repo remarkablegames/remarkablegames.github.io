@@ -16,11 +16,11 @@ image: https://remarkablegames.org/spin-to-win/favicon.png
 
 Play in your browser:
 
-- [itch.io](https://remarkablegames.itch.io/spin-to-win)
 - [Wavedash](https://wavedash.com/games/spin-to-win)
+- [itch.io](https://remarkablegames.itch.io/spin-to-win)
 - [remarkablegames](https://remarkablegames.org/spin-to-win/)
 
-Download for desktop:
+Or download for desktop:
 
 - [Windows](https://github.com/remarkablegames/spin-to-win/releases/latest/download/windows.zip)
 - [macOS](https://github.com/remarkablegames/spin-to-win/releases/latest/download/macos.zip)

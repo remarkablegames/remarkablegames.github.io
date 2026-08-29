@@ -14,7 +14,7 @@ image: https://remarkablegames.org/awestruck/screenshot.png
 
 ## Play
 
-Play in the browser:
+Play in your browser:
 
 - [Wavedash](https://wavedash.com/games/awestruck)
 - [itch.io](https://remarkablegames.itch.io/awestruck)

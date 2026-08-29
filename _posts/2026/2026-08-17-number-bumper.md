@@ -13,10 +13,10 @@ image: https://remarkablegames.org/number-bumper/cover.png
 
 ## Play
 
-Play in the browser:
+Play in your browser:
 
-- [itch.io](https://remarkablegames.itch.io/number-bumper)
 - [Wavedash](https://wavedash.com/games/number-bumper)
+- [itch.io](https://remarkablegames.itch.io/number-bumper)
 - [remarkablegames](https://remarkablegames.org/number-bumper/)
 
 Or download for desktop:

@@ -14,10 +14,10 @@ image: https://remarkablegames.org/water-pipe/cover_square.jpeg
 
 ## Play
 
-Play in browser:
+Play in your browser:
 
-- [itch.io](https://remarkablegames.itch.io/water-pipe)
 - [Wavedash](https://wavedash.com/games/water-pipe)
+- [itch.io](https://remarkablegames.itch.io/water-pipe)
 - [Newgrounds](https://www.newgrounds.com/portal/view/930938)
 - [remarkablegames](https://remarkablegames.org/water-pipe/)
 

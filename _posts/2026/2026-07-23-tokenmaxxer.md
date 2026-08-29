@@ -15,11 +15,11 @@ image: https://remarkablegames.org/tokenmaxxer/cover.png
 
 Play in your browser:
 
-- [itch.io](https://remarkablegames.itch.io/tokenmaxxer)
 - [Wavedash](https://wavedash.com/games/tokenmaxxer)
+- [itch.io](https://remarkablegames.itch.io/tokenmaxxer)
 - [remarkablegames](https://remarkablegames.org/tokenmaxxer/)
 
-Download for desktop:
+Or download for desktop:
 
 - [Windows](https://github.com/remarkablegames/tokenmaxxer/releases/latest/download/windows.zip)
 - [macOS](https://github.com/remarkablegames/tokenmaxxer/releases/latest/download/macos.zip)

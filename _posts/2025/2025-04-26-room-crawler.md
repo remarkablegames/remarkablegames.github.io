@@ -14,13 +14,13 @@ image: https://remarkablegames.org/room-crawler/web-presplash.jpg
 
 ## Play
 
-Play in browser:
+Play in your browser:
 
-- [remarkablegames](https://remarkablegames.org/room-crawler)
 - [Wavedash](https://wavedash.com/games/room-crawler)
 - [itch.io](https://remarkablegames.itch.io/room-crawler)
+- [remarkablegames](https://remarkablegames.org/room-crawler/)
 
-Or download:
+Or download for desktop:
 
 - [Windows](https://github.com/remarkablegames/room-crawler/releases/latest/download/win.zip)
 - [Mac](https://github.com/remarkablegames/room-crawler/releases/latest/download/mac.zip)
