@@ -2,6 +2,7 @@
 layout: post
 title: Deus Ex Machina
 date: 2026-04-26 16:44:56
+updated: 2026-08-28 22:44:59
 excerpt: 🔚 [Deus Ex Machina](/posts/deus-ex-machina) is a puzzle-platformer where you draw arrows to move the robot.
 categories: phaser platformer puzzle game web 2d
 image: https://remarkablegames.org/deus-ex-machina/splash.gif
@@ -13,13 +14,13 @@ image: https://remarkablegames.org/deus-ex-machina/splash.gif
 
 ## Play
 
-Play the game:
+Play in your browser:
 
-- [itch.io](https://remarkablegames.itch.io/deus-ex-machina)
 - [Wavedash](https://wavedash.com/games/deus-ex-machina)
+- [itch.io](https://remarkablegames.itch.io/deus-ex-machina)
 - [remarkablegames](https://remarkablegames.org/deus-ex-machina/)
 
-Or download:
+Or download for desktop:
 
 - [Windows](https://github.com/remarkablegames/deus-ex-machina/releases/latest/download/windows.zip)
 - [Mac](https://github.com/remarkablegames/deus-ex-machina/releases/latest/download/macos.zip)
@@ -35,10 +36,21 @@ The game features a robot/player character that auto-walks through levels, and y
 
 The title plays on the Latin phrase _deus ex machina_—literally "god from the machine"—referencing both the player's omniscient role in manipulating the game world and the industrial/robotic theme.
 
+## Features
+
+- Puzzle-platformer gameplay: draw arrows to guide a robot through levels
+- Rotate and erase arrows/blocks with limited arrows on select levels
+- Restart the current level by pressing `R`
+- Mobile support:
+  - Touch toolbar with Pan, Place, Rotate, Erase, and Restart
+  - Draggable toolbar with a `≡` handle
+  - Pinch-to-zoom and drag-to-pan camera controls
+  - Landscape orientation lock and mobile-friendly level hints
+
 ## How to Play
 
-- Left-click to draw an arrow block
-  - Left-click again to rotate it
+- Left-click to draw an arrow
+  - Left-click an arrow to rotate it
   - Some levels limit the number of arrows you can place
 - Right-click to erase a block
   - Some blocks are permanent
