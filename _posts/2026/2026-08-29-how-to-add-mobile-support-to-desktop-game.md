@@ -9,6 +9,10 @@ image: /assets/images/2026/2026-08-29-how-to-add-mobile-support-to-desktop-game.
 
 I just shipped mobile support for [Deus Ex Machina](https://remarkablegames.org/deus-ex-machina/), a puzzle-platformer where you draw arrows to guide a robot through industrial levels. You can now play it on a phone or tablet.
 
+- [Wavedash](https://wavedash.com/games/deus-ex-machina)
+- [itch.io](https://remarkablegames.itch.io/deus-ex-machina)
+- [remarkablegames](https://remarkablegames.org/deus-ex-machina/)
+
 ![Deus Ex Machina mobile gameplay](/assets/images/2026/2026-08-29-how-to-add-mobile-support-to-desktop-game.png)
 
 ## The Problem
