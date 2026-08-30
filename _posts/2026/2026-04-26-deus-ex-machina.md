@@ -2,7 +2,7 @@
 layout: post
 title: Deus Ex Machina
 date: 2026-04-26 16:44:56
-updated: 2026-08-28 22:44:59
+updated: 2026-08-29 22:22:33
 excerpt: 🔚 [Deus Ex Machina](/posts/deus-ex-machina) is a puzzle-platformer where you draw arrows to move the robot.
 categories: phaser platformer puzzle game web 2d
 image: https://remarkablegames.org/deus-ex-machina/splash.gif
@@ -25,6 +25,8 @@ Or download for desktop:
 - [Windows](https://github.com/remarkablegames/deus-ex-machina/releases/latest/download/windows.zip)
 - [Mac](https://github.com/remarkablegames/deus-ex-machina/releases/latest/download/macos.zip)
 - [Linux](https://github.com/remarkablegames/deus-ex-machina/releases/latest/download/linux.zip)
+
+<iframe width="405" height="720" style="display: block; margin: 0 auto;" src="https://www.youtube.com/embed/SY6klRdZlLQ" title="YouTube Short" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Description
 
