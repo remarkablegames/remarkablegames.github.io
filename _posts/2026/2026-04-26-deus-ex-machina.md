@@ -42,7 +42,7 @@ The title plays on the Latin phrase _deus ex machina_—literally "god from the 
 - Rotate and erase arrows/blocks with limited arrows on select levels
 - Restart the current level by pressing `R`
 - Mobile support:
-  - Touch toolbar with Pan, Place, Rotate, Erase, and Restart
+  - Touch toolbar with Pan, Place, Rotate, Erase, Clear, and Restart
   - Draggable toolbar with a `≡` handle
   - Pinch-to-zoom and drag-to-pan camera controls
   - Landscape orientation lock and mobile-friendly level hints
