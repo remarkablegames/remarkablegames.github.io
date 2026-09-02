@@ -14,12 +14,13 @@ image: https://remarkablegames.org/haunted-heir/web-presplash.jpg
 
 ## Play
 
-Play the game:
+Play in your browser:
 
+- [Wavedash](https://wavedash.com/games/haunted-heir)
 - [itch.io](https://remarkablegames.itch.io/haunted-heir)
 - [remarkablegames](https://remarkablegames.org/haunted-heir)
 
-Or download:
+Or download for desktop:
 
 - [Windows](https://github.com/remarkablegames/haunted-heir/releases/latest/download/win.zip)
 - [Mac](https://github.com/remarkablegames/haunted-heir/releases/latest/download/mac.zip)
