@@ -2,7 +2,7 @@
 layout: post
 title: How I added mobile support to a desktop game
 date: 2026-08-29 21:49:00
-excerpt: 🔚 [Deus Ex Machina](/posts/deus-ex-machina-mobile-support) is now playable on mobile with a touch toolbar and pinch-to-zoom.
+excerpt: 🔚 [Deus Ex Machina](/posts/how-to-add-mobile-support-to-desktop-game) is now playable on mobile with a touch toolbar and pinch-to-zoom.
 categories: mobile phaser platformer puzzle typescript game
 image: /assets/images/2026/2026-08-29-how-to-add-mobile-support-to-desktop-game.png
 ---
