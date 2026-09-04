@@ -15,9 +15,16 @@ image: https://remarkablegames.org/bubble-gun/cover.png
 
 Play in your browser:
 
+- [Wavedash](https://wavedash.com/games/bubble-gun)
 - [itch.io](https://remarkablegames.itch.io/bubble-gun)
 - [Newgrounds](https://www.newgrounds.com/portal/view/966187)
 - [remarkablegames](https://remarkablegames.org/bubble-gun)
+
+Or download for desktop:
+
+- [Windows](https://github.com/remarkablegames/bubble-gun/releases/latest/download/windows.zip)
+- [macOS](https://github.com/remarkablegames/bubble-gun/releases/latest/download/macos.zip)
+- [Linux](https://github.com/remarkablegames/bubble-gun/releases/latest/download/linux.zip)
 
 ## How to Play
 
