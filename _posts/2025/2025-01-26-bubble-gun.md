@@ -4,7 +4,7 @@ title: Bubble Gun
 date: 2025-01-26 18:47:34
 excerpt: 💦 🔫 [Bubble Gun](/posts/bubble-gun). Shoot bubbles at enemies!
 categories: web kaplay ggj arcade survival
-image: https://remarkablegames.org/bubble-gun/images/cover.png
+image: https://remarkablegames.org/bubble-gun/cover.png
 ---
 
 💦 🔫 **Bubble Gun** is a top-down survival game where you shoot bubbles at enemies.
@@ -13,11 +13,11 @@ image: https://remarkablegames.org/bubble-gun/images/cover.png
 
 ## Play
 
-Play the game:
+Play in your browser:
 
-- [remarkablegames](https://remarkablegames.org/bubble-gun)
 - [itch.io](https://remarkablegames.itch.io/bubble-gun)
-- [newgrounds](https://www.newgrounds.com/portal/view/966187)
+- [Newgrounds](https://www.newgrounds.com/portal/view/966187)
+- [remarkablegames](https://remarkablegames.org/bubble-gun)
 
 ## How to Play
 
@@ -29,8 +29,8 @@ Play the game:
 
 ## Credits
 
-- KitB@sh - Artist, Composer ([SoundCloud](https://soundcloud.com/k1tb4sh), [YouTube](https://www.youtube.com/@kitbash52))
-- remarkablemark - Programmer ([GitHub](https://github.com/remarkablemark))
+- **KitB@sh** - Artist, Composer ([SoundCloud](https://soundcloud.com/k1tb4sh), [YouTube](https://www.youtube.com/@kitbash52))
+- **remarkablemark** - Programmer ([GitHub](https://github.com/remarkablemark))
 
 ## Background
 
