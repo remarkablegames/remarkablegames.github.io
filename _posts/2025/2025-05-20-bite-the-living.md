@@ -2,6 +2,7 @@
 layout: post
 title: Bite the Living
 date: 2025-05-20 19:02:52
+updated: 2026-09-05 22:33:30
 excerpt: 🧟 [Bite the Living.](/posts/bite-the-living) Control zombies and attack humans!
 categories: web kaplay real-time-strategy pixel-art 2d
 image: https://remarkablegames.org/bite-the-living/logo.png
@@ -13,17 +14,31 @@ image: https://remarkablegames.org/bite-the-living/logo.png
 
 ## Play
 
-Play the game:
+Play in your browser:
 
+- [Wavedash](https://wavedash.com/games/bite-the-living)
 - [itch.io](https://remarkablegames.itch.io/bite-the-living)
-- [remarkablegames](https://remarkablegames.org/bite-the-living)
+- [remarkablegames](https://remarkablegames.org/bite-the-living/)
+
+Or download for desktop:
+
+- [Windows](https://github.com/remarkablegames/bite-the-living/releases/latest/download/windows.zip)
+- [macOS](https://github.com/remarkablegames/bite-the-living/releases/latest/download/macos.zip)
+- [Linux](https://github.com/remarkablegames/bite-the-living/releases/latest/download/linux.zip)
 
 ## How to Play
 
-- Move with mouse
-- Left click to select zombie(s)
-- Right click to move zombie(s)
-- Defeat all humans before zombies die
+- Left-click and drag to select one or multiple zombies
+- Right-click to move the selected zombies
+- Defeat all the humans before the zombies expire
+
+## Features
+
+- **Strategic zombie control** - Select individual zombies or groups with click-and-drag
+- **Enemy variety** - Face regular humans and armed gunmen
+- **Upgrade system** - Choose permanent upgrades between levels (speed, health, damage, healing, line of sight)
+- **Progressive difficulty** - 10 levels with increasing challenges
+- **Smooth camera controls** - Edge-of-screen camera scrolling for large levels
 
 ## Background
 
