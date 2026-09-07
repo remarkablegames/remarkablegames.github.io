@@ -2,6 +2,7 @@
 layout: post
 title: 'KnitBone: Rituals'
 date: 2025-10-20 15:39:37
+updated: 2026-09-07 14:01:25
 excerpt: >
   👁️ [KnitBone: Rituals](/posts/knitbone-rituals) is a roguelike deckbuilding card game where you battle entities.
 categories: renpy deckbuilding card game python
@@ -18,16 +19,17 @@ image: https://remarkablegames.org/knitbone-rituals/web-presplash.webp
 
 ## Play
 
-Play the game:
+Play in your browser:
 
-- [remarkablegames](https://remarkablegames.org/knitbone-rituals)
 - [itch.io](https://remarkablegames.itch.io/knitbone-rituals)
+- [Wavedash](https://wavedash.com/games/knitbone-rituals)
+- [remarkablegames](https://remarkablegames.org/knitbone-rituals)
 
-Or download:
+Or download for desktop:
 
 - [Windows](https://github.com/remarkablegames/knitbone-rituals/releases/latest/download/win.zip)
 - [Mac](https://github.com/remarkablegames/knitbone-rituals/releases/latest/download/mac.zip)
-- [Linux](https://github.com/remarkablegames/knitbone-rituals/releases/latest/download/pc.zip)
+- [Linux](https://github.com/remarkablegames/knitbone-rituals/releases/latest/download/linux.tar.bz2)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BYTcOpZhIaQ?si=FxG2dcu7cQoBTfRR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -37,6 +39,13 @@ Or download:
 - Hover over the enemy's name to see their next move.
 - Press **End Turn** when out of **Energy**.
 - Defeat all the enemies while staying alive!
+
+### Features
+
+- 5 levels with 4 unique enemies
+- Cards have attack, heal, draw, energy, and/or other special effects
+- Reward and shop mechanics (buy, upgrade, and remove cards and stats)
+- Estimated playtime: 15-30 minutes
 
 ## Credits
 
