@@ -40,7 +40,7 @@ Or download for desktop:
 - Press **End Turn** when out of **Energy**.
 - Defeat all the enemies while staying alive!
 
-### Features
+## Features
 
 - 5 levels with 4 unique enemies
 - Cards have attack, heal, draw, energy, and/or other special effects
