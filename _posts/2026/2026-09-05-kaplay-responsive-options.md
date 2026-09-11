@@ -2,6 +2,7 @@
 layout: post
 title: Kaplay responsive options
 date: 2026-09-05 15:00:59
+updated: 2026-09-11 13:41:38
 excerpt: Understanding [responsive options in Kaplay.js](/posts/kaplay-responsive-options).
 categories: kaplay javascript game-development web
 ---
@@ -89,6 +90,50 @@ The important distinction is:
 - `stretch: true` fills the available area but may distort the game.
 - `letterbox: true` preserves the aspect ratio by allowing unused space.
 - Use both options when you want a fixed internal resolution that scales to the available canvas without changing the game's aspect ratio.
+
+## Option `pixelDensity`
+
+The `pixelDensity` option controls the rendering resolution of the canvas:
+
+```ts
+kaplay({
+  width: 640,
+  height: 360,
+  stretch: true,
+  letterbox: true,
+  pixelDensity: 2,
+});
+```
+
+A value of `1` uses one device pixel for each canvas pixel. Higher values render the game at a denser resolution, which can make text, shapes, and sprites appear sharper on high-DPI screens.
+
+Higher pixel densities also require more work from the browser and use more memory. This can affect performance, especially on mobile devices or when the game uses many large sprites.
+
+Use `window.devicePixelRatio` to match the display's pixel density:
+
+```ts
+kaplay({
+  width: 640,
+  height: 360,
+  stretch: true,
+  letterbox: true,
+  pixelDensity: window.devicePixelRatio || 1,
+});
+```
+
+`window.devicePixelRatio` represents the ratio between physical pixels and CSS pixels. For example, a value of `2` means that the display uses approximately two physical pixels for each CSS pixel.
+
+Because some devices report very high values, you can cap the density to reduce rendering and memory costs:
+
+```ts
+kaplay({
+  width: 640,
+  height: 360,
+  stretch: true,
+  letterbox: true,
+  pixelDensity: Math.min(window.devicePixelRatio || 1, 2),
+});
+```
 
 ## Option `scale`
 
