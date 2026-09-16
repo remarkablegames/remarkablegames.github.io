@@ -2,7 +2,7 @@
 layout: post
 title: Code Arcade
 date: 2024-06-02 18:53:05
-updated: 2026-09-16 15:32:12
+updated: 2026-09-16 18:37:24
 excerpt: 🕹️ Learn how to program with [Code Arcade](/posts/code-arcade).
 categories: kaboom educational code javascript game
 image: https://remarkablegames.org/code-arcade/cover.png
@@ -16,6 +16,7 @@ image: https://remarkablegames.org/code-arcade/cover.png
 
 Play the game:
 
+- [Wavedash](https://wavedash.com/games/code-arcade)
 - [itch.io](https://remarkablegames.itch.io/code-arcade)
 - [Newgrounds](https://www.newgrounds.com/portal/view/934247)
 - [remarkablegames](https://remarkablegames.org/code-arcade/)
