@@ -14,12 +14,18 @@ image: https://remarkablegames.org/code-arcade/cover.png
 
 ## Play
 
-Play the game:
+Play in your browser:
 
 - [Wavedash](https://wavedash.com/games/code-arcade)
 - [itch.io](https://remarkablegames.itch.io/code-arcade)
 - [Newgrounds](https://www.newgrounds.com/portal/view/934247)
 - [remarkablegames](https://remarkablegames.org/code-arcade/)
+
+Or download for desktop:
+
+- [Windows](https://github.com/remarkablegames/code-arcade/releases/latest/download/windows.zip)
+- [macOS](https://github.com/remarkablegames/code-arcade/releases/latest/download/macos.zip)
+- [Linux](https://github.com/remarkablegames/code-arcade/releases/latest/download/linux.zip)
 
 ## How to Play
 
