@@ -6,7 +6,7 @@ excerpt: How to [unlock a Ren'Py gallery image with a password](/posts/renpy-gal
 categories: renpy gallery python
 ---
 
-Sometimes you want to keep a gallery image locked until the player enters a password. Unlike the normal gallery flow where an image unlocks the moment it's seen in-game, this lets you gate a single button behind a password while the rest of the gallery stays open.
+Sometimes you want to keep a gallery image locked until the player enters a password. Unlike the normal gallery flow where an image unlocks the moment it's seen in-game, you can gate a single button behind a password while the rest of the gallery stays open.
 
 ## Persistent Flag
 
