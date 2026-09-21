@@ -34,7 +34,7 @@ p {
 }
 
 // code block
-pre.highlight {
+.code-block {
   position: relative;
 
   // show copy button when hovering over code block
@@ -48,6 +48,9 @@ pre.highlight {
     border: 1px solid #999;
     border-radius: 5px;
     color: #999;
+    font-family: Monaco, 'Bitstream Vera Sans Mono', 'Lucida Console',
+      Terminal, monospace;
+    font-size: 13px;
     opacity: 0;
     position: absolute;
     right: 16px;
@@ -61,6 +64,12 @@ pre.highlight {
       color: #333;
     }
   }
+}
+
+// pre is the horizontal scroll container, so position the copy button
+// relative to its non-scrolling wrapper
+pre.highlight {
+  position: static;
 }
 
 // remove margin-bottom for nested ul/ol inside ul/ol

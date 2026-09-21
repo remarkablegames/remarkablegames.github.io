@@ -62,6 +62,7 @@ layout: default
 {% endcomment %}
 <script>
   document.querySelectorAll('article pre.highlight').forEach(function (pre) {
+    var wrapper = document.createElement('div');
     var button = document.createElement('button');
     var copyText = 'Copy';
     button.type = 'button';
@@ -81,7 +82,10 @@ layout: default
         button.innerText = copyText;
       }, 2e3);
     });
-    pre.appendChild(button);
+    wrapper.className = 'code-block';
+    pre.parentNode.insertBefore(wrapper, pre);
+    wrapper.appendChild(pre);
+    wrapper.appendChild(button);
   });
 </script>
 
