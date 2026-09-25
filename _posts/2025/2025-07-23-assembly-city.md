@@ -15,14 +15,15 @@ image: https://remarkablegames.org/assembly-city/web-presplash.webp
 
 Play the game:
 
-- [remarkablegames](https://remarkablegames.org/assembly-city)
+- [Wavedash](https://wavedash.com/games/assembly-city)
 - [itch.io](https://remarkablegames.itch.io/assembly-city)
+- [remarkablegames](https://remarkablegames.org/assembly-city)
 
 Or download:
 
 - [Windows](https://github.com/remarkablegames/assembly-city/releases/latest/download/win.zip)
 - [Mac](https://github.com/remarkablegames/assembly-city/releases/latest/download/mac.zip)
-- [Linux](https://github.com/remarkablegames/assembly-city/releases/latest/download/pc.zip)
+- [Linux](https://github.com/remarkablegames/assembly-city/releases/latest/download/linux.tar.bz2)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R2FQy8yn7dM?si=m8Q23zvTP2zBymad" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
