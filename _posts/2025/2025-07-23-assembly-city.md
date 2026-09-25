@@ -13,13 +13,13 @@ image: https://remarkablegames.org/assembly-city/web-presplash.webp
 
 ## Play
 
-Play the game:
+Play in your browser:
 
 - [Wavedash](https://wavedash.com/games/assembly-city)
 - [itch.io](https://remarkablegames.itch.io/assembly-city)
 - [remarkablegames](https://remarkablegames.org/assembly-city)
 
-Or download:
+Or download for desktop:
 
 - [Windows](https://github.com/remarkablegames/assembly-city/releases/latest/download/win.zip)
 - [Mac](https://github.com/remarkablegames/assembly-city/releases/latest/download/mac.zip)
@@ -30,9 +30,17 @@ Or download:
 ## How To Play
 
 - Drag the card to the citizen.
-- Click on the citizen name to see their next move.
+- Hover over the citizen name to see his or her next move.
 - Press **End Turn** when out of **Moves**.
-- The objective is to reach the **Consensus** goal.
+- Reach the **Consensus** goal (on the bottom-left).
+
+## Features
+
+- **Turn-based assemblies** against citizens with deterministic action loops. Hover over a name to see the next move.
+- **Card play**: build consensus, ration citizen energy, draw cards, gain extra moves/turns, or stun citizens.
+- **Roguelike run** across 10 levels. Earn money and rewards. Shop between battles to buy, upgrade, or remove cards.
+- **Tight resources**: reach the consensus goal before you run out of turns. Earn bonus cash for exceeding it.
+- **Tutorial** with good and bad endings.
 
 ## Background
 
