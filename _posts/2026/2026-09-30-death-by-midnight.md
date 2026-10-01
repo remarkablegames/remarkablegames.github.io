@@ -29,6 +29,8 @@ Or download for desktop:
 - [Mac](https://github.com/remarkablegames/death-by-midnight/releases/latest/download/mac.zip)
 - [Linux](https://github.com/remarkablegames/death-by-midnight/releases/latest/download/linux.tar.bz2)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s4LGgQwiwHM?si=jqrIT2s87FcBwX2v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Features
 
 - An in-game clock where every action advances time
