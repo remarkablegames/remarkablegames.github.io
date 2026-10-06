@@ -7,7 +7,7 @@ categories: game brain training puzzle memory react typescript
 image: https://remarkablegames.org/memory-matrix/cover.jpeg
 ---
 
-🧩 [Memory Matrix](/memory-matrix/) is a spatial memory game where you recreate a pattern of tiles from memory.
+🧩 **Memory Matrix** is a spatial memory game where you recreate a pattern of tiles from memory.
 
 <iframe src="https://remarkablegames.org/memory-matrix/" frameBorder="0" width="100%" height="760" style="display: block; margin: 0 auto;"></iframe>
 
