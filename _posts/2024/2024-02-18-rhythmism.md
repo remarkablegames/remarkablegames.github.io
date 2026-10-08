@@ -25,7 +25,7 @@ The game was made for the [Rhythm Jam 2024](https://itch.io/jam/rhythm-jam-2024)
 
 > a difference between two or more things, attitudes, or opinions.
 
-We brainstormed on [Excalidraw](https://excalidraw.com/#json=4xsd2WQeFiejrdBQkalCR,GLv9eoVsLsWhkXYKI1gCLA) and were inspired by [Friday Night Funkin'](https://friday-nightfunkin.io/) and [Guitar Hero](https://wikipedia.org/wiki/Guitar_Hero).
+We brainstormed on [Excalidraw](https://excalidraw.com/#json=4xsd2WQeFiejrdBQkalCR,GLv9eoVsLsWhkXYKI1gCLA) and were inspired by [Friday Night Funkin'](https://ninja-muffin24.itch.io/funkin) and [Guitar Hero](https://wikipedia.org/wiki/Guitar_Hero).
 
 I first created a proof of concept to see if it was possible to make a rhythm game in [Kaboom](https://kaboomjs.com/). After that, we migrated the code to [GitHub](https://github.com/remarkablegames/rhythmism).
 
