@@ -2,28 +2,42 @@
 layout: post
 title: Built to Scale
 date: 2024-08-20 15:39:00
+updated: 2026-10-13 16:48:00
 excerpt: ⚖️ [Play as an entrepreneur building a business!](/posts/built-to-scale)
 categories: renpy economy python game
 image: https://raw.githubusercontent.com/remarkablegames/built-to-scale/master/design/cover.jpg
 ---
 
-⚖️ Play as an entrepreneur building a business!
+⚖️ Play as an entrepreneur building a business to scale!
+
+> You're an entrepreneur with just 21 days to build a business that can scale. Make choices, manage your resources, and navigate the ups and downs of startup life. Grow too quickly and you could run out of money; play it too safe and you might miss your chance to grow.
 
 <iframe src="https://remarkablegames.org/built-to-scale/" frameBorder="0" width="690" height="388" style="display: block; margin: 0 auto;"></iframe>
 
 ## Play
 
-Play the game:
+Play in your browser:
 
-- [remarkablegames](https://remarkablegames.org/built-to-scale)
+- [Wavedash](https://wavedash.com/games/built-to-scale)
 - [itch.io](https://remarkablegames.itch.io/built-to-scale)
-- [newgrounds](https://www.newgrounds.com/portal/view/945558)
+- [Newgrounds](https://www.newgrounds.com/portal/view/945558)
+- [remarkablegames](https://remarkablegames.org/built-to-scale/)
 
-Or download:
+Or download for desktop:
 
 - [Windows](https://github.com/remarkablegames/built-to-scale/releases/latest/download/win.zip)
 - [Mac](https://github.com/remarkablegames/built-to-scale/releases/latest/download/mac.zip)
-- [Linux](https://github.com/remarkablegames/built-to-scale/releases/latest/download/pc.zip)
+- [Linux](https://github.com/remarkablegames/built-to-scale/releases/latest/download/linux.tar.bz2)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XXaQKrE2URU?si=j15Zz8AMnaXnc8LY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Features
+
+- A visual-novel story with RPG-style stats and choices
+- A day-and-night cycle where every action spends energy and time
+- Daily events that could help or hinder your business
+- A 21-day run with multiple endings
+- Estimated playtime: 30 minutes (5,000 words)
 
 ## Background
 
@@ -53,13 +67,14 @@ You can find our game on [GitHub](https://github.com/remarkablegames/built-to-sc
 
 ### Audio
 
-- Guilain de Coligny
 - [Kenney Interface Sounds](https://kenney.nl/assets/interface-sounds)
-- [Knock knock knock](https://pixabay.com/sound-effects/knock-knock-knock-40474/)
-- [Writing,Pen,Signature,Paper](https://pixabay.com/sound-effects/writingpensignaturepaper-102967/)
-- [rotary phone ring medium](https://pixabay.com/sound-effects/rotary-phone-ring-medium-103869/)
-- [Cell Phone Vibrate (High Quality)](https://pixabay.com/sound-effects/cell-phone-vibrate-high-quality-34034/)
+- [Text/Dialogue Bleeps Pack](https://dmochas-assets.itch.io/dmochas-bleeps-pack)
+- Sound effects from [Pixabay](https://pixabay.com/sound-effects/)
 
 ### Font
 
 - [Queensides Font](https://www.fontspace.com/queensides-font-f90306)
+
+### Music
+
+- Guilain de Coligny
