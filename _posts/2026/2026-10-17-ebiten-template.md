@@ -12,9 +12,9 @@ categories: ebiten ebitengine go golang template game 2d
 
 ## Features
 
-- **Hot reload**: on desktop, the game reloads on save so you can edit a file and watch it update.
-- **1 codebase, 3 targets**: native binaries for Windows, macOS, and Linux; WebAssembly for the browser.
-- **Embedded assets**: ships with a working sprite sheet.
+1. **Hot reload**: on desktop, the game reloads on save so you can edit a file and watch it update.
+2. **1 codebase, 3 targets**: native binaries for Windows, macOS, and Linux; WebAssembly for the browser.
+3. **Embedded assets**: ships with a working sprite sheet.
 
 ## Prerequisites
 
