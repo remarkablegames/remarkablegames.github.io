@@ -4,7 +4,7 @@ title: Rhythmism
 date: 2024-02-18 13:12:15
 excerpt: 🎶 [Rhythmism](/posts/rhythmism/) is a web rhythm game.
 categories: rhythm game music web kaboom jam
-image: https://remarkablegames.org/rhythmism/screenshots/sinbad1.png
+image: https://github.com/remarkablegames/rhythmism/blob/master/screenshots/sinbad1.png?raw=true
 ---
 
 🎶 Rhythmism is a web rhythm game:
@@ -16,8 +16,8 @@ image: https://remarkablegames.org/rhythmism/screenshots/sinbad1.png
 Play the game:
 
 - [itch.io](https://remarkablegames.itch.io/rhythmism)
+- [Newgrounds](https://www.newgrounds.com/portal/view/918614)
 - [remarkablegames](https://remarkablegames.org/rhythmism/)
-- [newgrounds](https://www.newgrounds.com/portal/view/918614)
 
 ## Background
 
