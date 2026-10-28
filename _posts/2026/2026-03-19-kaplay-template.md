@@ -2,7 +2,7 @@
 layout: post
 title: Kaplay Template
 date: 2026-03-19 15:20:38
-excerpt: 🦖 [Kaplay template](/posts/kaplay-template) allows you to make web games in Kaplay.js.
+excerpt: 🦖 [Kaplay template](/posts/kaplay-template) for making 2D web games.
 categories: kaplay template game typescript javascript web
 image: https://remarkablegames.org/kaplay-template/app-icon.png
 ---

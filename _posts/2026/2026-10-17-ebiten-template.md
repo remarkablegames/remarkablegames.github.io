@@ -4,6 +4,7 @@ title: Ebitengine Template
 date: 2026-10-17 18:38:34
 excerpt: 🐹 [Ebiten/Ebitengine template](/posts/ebiten-template) for making 2D games in Go.
 categories: ebiten ebitengine go golang template game 2d
+image: https://github.com/remarkablegames/ebiten-template/blob/master/assets/icons/logo.svg?raw=true
 ---
 
 🐹 [ebiten-template](https://github.com/remarkablegames/ebiten-template) is a template for making 2D games with [Ebitengine](https://ebitengine.org/) in Go.
