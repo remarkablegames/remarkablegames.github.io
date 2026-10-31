@@ -120,7 +120,6 @@ bundle exec htmlproofer _site
 - [Liberapay](https://b.remarkabl.org/liberapay)
 - [Buy Me a Coffee](https://buymeacoffee.com/remarkablemark)
 - [thanks.dev](https://thanks.dev/u/gh/remarkablemark)
-- [Teepsring](https://b.remarkabl.org/teespring)
 
 ## License
 
