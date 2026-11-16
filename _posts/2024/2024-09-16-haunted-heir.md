@@ -10,7 +10,7 @@ image: https://remarkablegames.org/haunted-heir/web-presplash.jpg
 
 🏠 You receive an inheritance letter from a fallen house. As you arrive and meet the Lord, you realize something spooky is going on...
 
-<iframe src="https://remarkablegames.org/haunted-heir/" frameBorder="0" width="690" height="388" style="display: block; margin: 0 auto;"></iframe>
+<iframe src="https://remarkablegames.org/haunted-heir/" title="Haunted Heir" frameBorder="0" width="690" height="388" style="display: block; margin: 0 auto;"></iframe>
 
 ## Play
 
@@ -26,7 +26,7 @@ Or download for desktop:
 - [Mac](https://github.com/remarkablegames/haunted-heir/releases/latest/download/mac.zip)
 - [Linux](https://github.com/remarkablegames/haunted-heir/releases/latest/download/pc.zip)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kdZLXzgPbT8?si=HXVtXKB-PneUWo2-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kdZLXzgPbT8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Background
 

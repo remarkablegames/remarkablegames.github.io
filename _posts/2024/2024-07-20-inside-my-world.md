@@ -7,9 +7,9 @@ categories: soundtrack ost game jam
 image: /assets/images/2024/2024-07-20-inside-my-world.jpeg
 ---
 
-**inside my world** is a soundtrack made for the [OST Composing Jam #7](https://itch.io/jam/ost-composing-jam-7):
+🎶 **inside my world** is a soundtrack made for the [OST Composing Jam #7](https://itch.io/jam/ost-composing-jam-7):
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/u32JHL_KUL0?si=SccF6xALmMSzSf-n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u32JHL_KUL0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 See the [submission](https://itch.io/jam/ost-composing-jam-7/rate/2844286).
 

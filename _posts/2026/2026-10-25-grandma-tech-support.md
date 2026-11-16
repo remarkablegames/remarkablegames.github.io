@@ -9,7 +9,7 @@ image: https://remarkablegames.org/grandma-tech-support/cover.jpg
 
 👵🛠️ Grandma needs help with her computer. Follow her instructions, dodge suspicious windows, and try not to break anything important.
 
-<iframe src="https://remarkablegames.org/grandma-tech-support/" frameBorder="0" width="100%" height="700" style="display: block; margin: 0 auto;"></iframe>
+<iframe src="https://remarkablegames.org/grandma-tech-support/" title="Grandma Tech Support" frameBorder="0" width="100%" height="700" style="display: block; margin: 0 auto;"></iframe>
 
 ## Play
 
@@ -25,7 +25,7 @@ Or download for desktop:
 - [macOS](https://github.com/remarkablegames/grandma-tech-support/releases/latest/download/macos.zip)
 - [Linux](https://github.com/remarkablegames/grandma-tech-support/releases/latest/download/linux.zip)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bK7yEL-XlGg?si=lB8nRVZLq6tFQuzm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bK7yEL-XlGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Features
 

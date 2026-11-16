@@ -9,7 +9,7 @@ image: https://remarkablegames.org/assembly-city/web-presplash.webp
 
 ⚖️ Roguelike deck-building card game about facilitating a Citizens' Assembly.
 
-<iframe src="https://remarkablegames.org/assembly-city/" frameBorder="0" width="690" height="388" style="display: block; margin: 0 auto;"></iframe>
+<iframe src="https://remarkablegames.org/assembly-city/" title="Assembly City" frameBorder="0" width="690" height="388" style="display: block; margin: 0 auto;"></iframe>
 
 ## Play
 
@@ -25,7 +25,7 @@ Or download for desktop:
 - [Mac](https://github.com/remarkablegames/assembly-city/releases/latest/download/mac.zip)
 - [Linux](https://github.com/remarkablegames/assembly-city/releases/latest/download/linux.tar.bz2)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/R2FQy8yn7dM?si=m8Q23zvTP2zBymad" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R2FQy8yn7dM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## How To Play
 

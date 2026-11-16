@@ -7,9 +7,9 @@ categories: soundtrack ost game jam
 image: /assets/images/2025/2025-09-11-one-summer-night.jpg
 ---
 
-**One Summer Night** is a soundtrack made for the [OST Composing Jam #8](https://itch.io/jam/ost-composing-jam-8):
+🎶 **One Summer Night** is a soundtrack made for the [OST Composing Jam #8](https://itch.io/jam/ost-composing-jam-8):
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=72whridM-88QI8zZ&amp;list=PLIE6B_K7SxUlCWXkA5EhbRCI-Vxx6c9U5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLIE6B_K7SxUlCWXkA5EhbRCI-Vxx6c9U5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Download the audio and flp project on [itch.io](https://remarkablegames.itch.io/one-summer-night). See the [submission](https://itch.io/jam/ost-composing-jam-8/rate/3867402).
 

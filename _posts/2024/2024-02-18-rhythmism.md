@@ -10,7 +10,7 @@ image: https://github.com/remarkablegames/rhythmism/blob/master/screenshots/sinb
 
 🎶 Rhythmism is a browser-based rhythm game. Choose a track, then press the on-screen keys in time with the music as notes reach them. You can play with a keyboard or use touch controls on a touchscreen.
 
-<iframe src="https://remarkablegames.org/rhythmism/" frameBorder="0" width="360" height="480" style="display: block; margin: 0 auto;"></iframe>
+<iframe src="https://remarkablegames.org/rhythmism/" title="Rhythmism" frameBorder="0" width="360" height="480" style="display: block; margin: 0 auto;"></iframe>
 
 ## Play
 
@@ -27,7 +27,7 @@ Or download for desktop:
 - [macOS](https://github.com/remarkablegames/rhythmism/releases/latest/download/macos.zip)
 - [Linux](https://github.com/remarkablegames/rhythmism/releases/latest/download/linux.zip)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hLwIFLooWCg?si=4SKNcr--YAvzLeZT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hLwIFLooWCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## How to Play
 

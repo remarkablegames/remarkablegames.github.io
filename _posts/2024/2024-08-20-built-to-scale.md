@@ -12,7 +12,7 @@ image: https://raw.githubusercontent.com/remarkablegames/built-to-scale/master/d
 
 > You're an entrepreneur with just 21 days to build a business that can scale. Make choices, manage your resources, and navigate the ups and downs of startup life. Grow too quickly and you could run out of money; play it too safe and you might miss your chance to grow.
 
-<iframe src="https://remarkablegames.org/built-to-scale/" frameBorder="0" width="690" height="388" style="display: block; margin: 0 auto;"></iframe>
+<iframe src="https://remarkablegames.org/built-to-scale/" title="Built to Scale" frameBorder="0" width="690" height="388" style="display: block; margin: 0 auto;"></iframe>
 
 ## Play
 
@@ -29,7 +29,7 @@ Or download for desktop:
 - [Mac](https://github.com/remarkablegames/built-to-scale/releases/latest/download/mac.zip)
 - [Linux](https://github.com/remarkablegames/built-to-scale/releases/latest/download/linux.tar.bz2)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XXaQKrE2URU?si=j15Zz8AMnaXnc8LY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XXaQKrE2URU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Features
 

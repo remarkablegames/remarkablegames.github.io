@@ -13,7 +13,7 @@ image: https://remarkablegames.org/death-by-midnight/web-presplash.webp
 >
 > Trapped in an endless cycle, you must uncover the truth, prevent the deaths, and escape the loop.
 
-<iframe src="https://remarkablegames.org/death-by-midnight/" frameBorder="0" width="690" height="388" style="display: block; margin: 0 auto;"></iframe>
+<iframe src="https://remarkablegames.org/death-by-midnight/" title="Death by Midnight" frameBorder="0" width="690" height="388" style="display: block; margin: 0 auto;"></iframe>
 
 ## Play
 
@@ -29,7 +29,7 @@ Or download for desktop:
 - [Mac](https://github.com/remarkablegames/death-by-midnight/releases/latest/download/mac.zip)
 - [Linux](https://github.com/remarkablegames/death-by-midnight/releases/latest/download/linux.tar.bz2)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/s4LGgQwiwHM?si=jqrIT2s87FcBwX2v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s4LGgQwiwHM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Features
 

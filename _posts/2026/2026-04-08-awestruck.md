@@ -10,7 +10,7 @@ image: https://remarkablegames.org/awestruck/screenshot.png
 
 🎴 **Awestruck** is a deckbuilding card game that synergizes words.
 
-<iframe src="https://remarkablegames.org/awestruck/" frameBorder="0" width="700" height="438" style="display: block; margin: 0 auto;"></iframe>
+<iframe src="https://remarkablegames.org/awestruck/" title="Awestruck" frameBorder="0" width="700" height="438" style="display: block; margin: 0 auto;"></iframe>
 
 ## Play
 
@@ -26,7 +26,7 @@ Or download for desktop:
 - [Mac](https://github.com/remarkablegames/awestruck/releases/latest/download/macos.zip)
 - [Linux](https://github.com/remarkablegames/awestruck/releases/latest/download/linux.zip)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aT9wrRO0wV4?si=IOc8Yw_YhVAZ9Ex7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aT9wrRO0wV4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## How to Play
 
