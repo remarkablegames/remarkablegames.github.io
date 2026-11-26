@@ -32,7 +32,7 @@ button.on('pointerdown', () => {
 
 Now things get hairy.
 
-Given my experience with [React](https://react.dev/), I really enjoyed how the framework made _imperative_ programming **_declarative_**. So to make this possible in Phaser, I created [phaser-jsx](https://www.npmjs.com/package/phaser-jsx).
+Given my experience with [React](https://react.dev/), I enjoyed how the framework made _imperative_ programming **_declarative_**. So to make this possible in Phaser, I created [phaser-jsx](https://www.npmjs.com/package/phaser-jsx).
 
 ## How
 
