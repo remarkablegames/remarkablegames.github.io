@@ -2,6 +2,7 @@
 layout: post
 title: Game Sounds
 date: 2026-11-10 14:29:06
+updated: 2026-11-27 20:12:51
 excerpt: 🎵 Procedurally generated [game sounds](/posts/game-sounds) in 4 audio styles (UI, outcomes, combat, and more).
 categories: game sounds python cli audio wav ogg mp3
 ---
@@ -24,7 +25,7 @@ Everything is synthesized with Python’s standard library:
 
 - No samples, Python packages, or audio dependencies
 - Deterministic output: the same `--seed` renders the same audio
-- 39 cues × 4 styles, so one style can cover an entire game
+- 45 cues × 4 styles, so one style can cover an entire game
 - Each sound is rendered as a 44.1 kHz mono WAV master, with optional OGG and MP3 versions
 
 ## Styles
@@ -44,7 +45,7 @@ Everything is synthesized with Python’s standard library:
 
 ## Sounds
 
-Each style includes 39 cues and 156 sounds across the 4 styles.
+Each style includes 45 cues and 180 sounds across the 4 styles.
 
 ### Movement
 
@@ -87,6 +88,8 @@ Each style includes 39 cues and 156 sounds across the 4 styles.
 | Category | Description | Sounds |
 | --- | --- | --- |
 | _UI_ | Menus, buttons, and alerts | `ui_click_01`, `ui_hover_01`, `ui_confirm_01`, `ui_back_01`, `ui_error_01`, `ui_open_01`, `ui_close_01`, `ui_notification_01` |
+| _Typing_ | Keyboard key presses | `type_01`, `type_02`, `type_03` |
+| _Dialogue_ | Text box character blips | `dialogue_01`, `dialogue_02`, `dialogue_03` |
 | _Victory_ | Win / level complete | `victory_01` |
 | _Defeat_ | Loss / round over | `defeat_01` |
 | _Level Up_ | Character or skill progression | `level_up_01` |
